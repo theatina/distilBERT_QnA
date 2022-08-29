@@ -1,0 +1,26 @@
+_________________________________________
+Train Set:
+
+Percentage of Train set context under:
+50 	-> 1.77%
+100 -> 12.26%
+150 -> 53.36%
+200 -> 79.48%
+256 -> 92.30%  (chosen as tokenizer.model_max_length)
+300 -> 96.53%
+512 -> 99.87%
+3263 -> 100.00%
+
+
+_________________________________________
+Dev Set:
+
+Percentage of Dev set context under:
+50 	-> 1.79%
+100 -> 10.98%
+150 -> 50.40%
+200 -> 78.16%
+256 -> 91.45%  (chosen as tokenizer.model_max_length)
+300 -> 95.86%
+512 -> 99.54%
+792 -> 100.00%
