@@ -1,0 +1,1003 @@
+
+Mean F1: 71.78%  |  Mean EM: 57.50%
+
+
+Q1. How many appearances have the Denver Broncos made in the Super Bowl?
+Predicted answer: Eight
+Golder answer: 8
+(F1: 0.00%  |  EM: No)
+
+Q2. Who was this season's NFL MVP?
+Predicted answer: Cam newton
+Golder answer: Cam Newton
+(F1: 100.00%  |  EM: Yes)
+
+Q3. Which Carolina Panthers team member was picked as the team's MVP in 2015? 
+Predicted answer: Cam newton
+Golder answer: Cam Newton
+(F1: 100.00%  |  EM: Yes)
+
+Q4. What two artists came out with Coldplay during the half-time show?
+Predicted answer: Beyonce and bruno mars
+Golder answer: Beyoncé and Bruno Mars
+(F1: 75.00%  |  EM: No)
+
+Q5. Who if the commissioner of the NFL?
+Predicted answer: Roger goodell
+Golder answer: Roger Goodell
+(F1: 100.00%  |  EM: Yes)
+
+Q6. How many touchdowns did Newton have in 2015?
+Predicted answer: Six
+Golder answer: 45
+(F1: 0.00%  |  EM: No)
+
+Q7. What position does Demaryius Thomas play?
+Predicted answer: Veteran receiver
+Golder answer: receiver
+(F1: 66.67%  |  EM: No)
+
+Q8. How many sacks did Derek Wolfe register?
+Predicted answer: 5½
+Golder answer: 5½
+(F1: 100.00%  |  EM: Yes)
+
+Q9. How old was Newton during Super Bowl 50?
+Predicted answer: 13 years
+Golder answer: 26
+(F1: 0.00%  |  EM: No)
+
+Q10. What position did Rivera play in Super Bowl XX?
+Predicted answer: Linebacker
+Golder answer: linebacker
+(F1: 100.00%  |  EM: Yes)
+
+Q11. What was th elast Super Bowl where the Broncos wore white uniforms?
+Predicted answer: Super bowl
+Golder answer: Super Bowl XXXIII
+(F1: 80.00%  |  EM: No)
+
+Q12. What replica was used for player introductions?
+Predicted answer: Golden gate bridge
+Golder answer: the Golden Gate Bridge.
+(F1: 100.00%  |  EM: Yes)
+
+Q13. Who were the ESPN Deportes commentators for Super Bowl 50?
+Predicted answer: John sutcliffe
+Golder answer: Alvaro Martin and Raul Allegre
+(F1: 0.00%  |  EM: No)
+
+Q14. What CBS website provided a stream?
+Predicted answer: Cbssports com
+Golder answer: CBSSports.com
+(F1: 100.00%  |  EM: Yes)
+
+Q15. Which mobile service were Verizon customers able to watch Super Bowl 50 on their phones?
+Predicted answer: Nfl
+Golder answer: NFL Mobile service.
+(F1: 50.00%  |  EM: No)
+
+Q16. Paramount paid fo, 10 Cloverfield Lane and which other film trailer to be aired during the game?
+Predicted answer: 
+Golder answer: Teenage Mutant Ninja Turtles: Out of the Shadows
+(F1: 0.00%  |  EM: No)
+
+Q17. Who recovered a Manning fumble?
+Predicted answer: Ealy
+Golder answer: Ealy
+(F1: 100.00%  |  EM: Yes)
+
+Q18. What is the last name of the player who finally recovered the ball Newton lost in the fourth quarter?
+Predicted answer: Ward
+Golder answer: wards
+(F1: 0.00%  |  EM: No)
+
+Q19. What is one of the largest music schools in Europe?
+Predicted answer: Warsaw school of economics
+Golder answer: Fryderyk Chopin University of Music
+(F1: 22.22%  |  EM: No)
+
+Q20. How man people gather along the banks of the Vistula for the Wianki festival?
+Predicted answer: Thousands
+Golder answer: thousands
+(F1: 100.00%  |  EM: Yes)
+
+Q21. When did Warsaw start to rebuild?
+Predicted answer: After liberation
+Golder answer: After liberation
+(F1: 100.00%  |  EM: Yes)
+
+Q22. When was the FSO Car Factory founded?
+Predicted answer: 1951
+Golder answer: 1951
+(F1: 100.00%  |  EM: Yes)
+
+Q23. When did Robert Crispin go up against the Turks?
+Predicted answer: 1060s
+Golder answer: 1060s
+(F1: 100.00%  |  EM: Yes)
+
+Q24. When did Dyrrachium  fall to the Normans?
+Predicted answer: 1081
+Golder answer: 1082
+(F1: 0.00%  |  EM: No)
+
+Q25. What was the wedding date?
+Predicted answer: 12 may 1191
+Golder answer: 12 May 1191
+(F1: 100.00%  |  EM: Yes)
+
+Q26. What year did Tesla die? 
+Predicted answer: 1943
+Golder answer: 1943
+(F1: 100.00%  |  EM: Yes)
+
+Q27. Why did Tesla sever ties with his family?
+Predicted answer: He dropped out of school
+Golder answer: to hide the fact that he dropped out of school
+(F1: 71.43%  |  EM: No)
+
+Q28. how long did Tesla spend redesigning the motor and generators?
+Predicted answer: Months of work tesla fulfilled task and inquired about payment edison saying that he was only joking replied tesla you don t understand our american humor 64 instead edison offered us 10 week
+Golder answer: months
+(F1: 5.88%  |  EM: No)
+
+Q29. Who demonstrated the Egg of Columbus?
+Predicted answer: Tesla
+Golder answer: Tesla
+(F1: 100.00%  |  EM: Yes)
+
+Q30. What was notable about the butterflies?
+Predicted answer: Blue halos of st elmo s fire around their wings
+Golder answer: Butterflies were electrified
+(F1: 0.00%  |  EM: No)
+
+Q31. Who did Tesla try to get money from?
+Predicted answer: Morgan
+Golder answer: Morgan
+(F1: 100.00%  |  EM: Yes)
+
+Q32. How much correspondence did Tesla send Morgan in the five years following 1901?
+Predicted answer: Over 50
+Golder answer: over 50 letters
+(F1: 80.00%  |  EM: No)
+
+Q33. At what speed did the turbine operate?
+Predicted answer: 
+Golder answer: 16,000 rpm
+(F1: 0.00%  |  EM: No)
+
+Q34. Who received a bid in 1915?
+Predicted answer: Edison
+Golder answer: Edison
+(F1: 100.00%  |  EM: Yes)
+
+Q35. Who was Tesla's nephew?
+Predicted answer: Sava kosanovic
+Golder answer: Sava Kosanović
+(F1: 50.00%  |  EM: No)
+
+Q36. When was the article published?
+Predicted answer: 20 december 1914
+Golder answer: 20 December 1914
+(F1: 100.00%  |  EM: Yes)
+
+Q37. What field of computer science analyzes the resource requirements of a specific algorithm isolated unto itself within a given problem?
+Predicted answer: Analysis of algorithms and computability theory
+Golder answer: analysis of algorithms
+(F1: 66.67%  |  EM: No)
+
+Q38. A complexity resource can also be described as what other type of resource?
+Predicted answer: Computational resource
+Golder answer: computational resource
+(F1: 100.00%  |  EM: Yes)
+
+Q39. Decision problems capable of being solved by a deterministic Turing machine while maintaining adherence to polynomial time belong to what class?
+Predicted answer: Complexity class p
+Golder answer: complexity class P
+(F1: 100.00%  |  EM: Yes)
+
+Q40. What function is used by algorithms to define measurements like time or space?
+Predicted answer: Bounding
+Golder answer: bounding
+(F1: 100.00%  |  EM: Yes)
+
+Q41. Problems capable of theoretical solutions but consuming unreasonable time in practical application are known as what?
+Predicted answer: Intractable problems
+Golder answer: intractable problems
+(F1: 100.00%  |  EM: Yes)
+
+Q42. What factor may make a teacher's role vary?
+Predicted answer: Cultures
+Golder answer: cultures
+(F1: 100.00%  |  EM: Yes)
+
+Q43. What must be passed using democratic means by the entire school community?
+Predicted answer: School that has good clear laws
+Golder answer: good, clear laws
+(F1: 66.67%  |  EM: No)
+
+Q44. What gets transferred to students who are receptive to the teacher?
+Predicted answer: Their passion
+Golder answer: passion
+(F1: 66.67%  |  EM: No)
+
+Q45. How many people were involved in the study?
+Predicted answer: 2 869
+Golder answer: 2,869
+(F1: 100.00%  |  EM: Yes)
+
+Q46. With whom must someone who wants to teach register?
+Predicted answer: General teaching council for scotland
+Golder answer: the General Teaching Council for Scotland (GTCS)
+(F1: 90.91%  |  EM: No)
+
+Q47. Who asked Luther to teach theology at the University of Wittenberg?
+Predicted answer: Von staupitz
+Golder answer: von Staupitz
+(F1: 100.00%  |  EM: Yes)
+
+Q48. What did Luther call these donations?
+Predicted answer: Indulgences
+Golder answer: false assurances
+(F1: 0.00%  |  EM: No)
+
+Q49. How did Luther respond after being asked if the books were his?
+Predicted answer: 
+Golder answer: confirmed
+(F1: 0.00%  |  EM: No)
+
+Q50. What did Luther call the mass instead of sacrifice?
+Predicted answer: Gift
+Golder answer: a gift
+(F1: 100.00%  |  EM: Yes)
+
+Q51. What did the reforms cause?
+Predicted answer: Disturbances including revolt by augustinian friars against their prior smashing of statues and images in churches and denunciations of magistracy
+Golder answer: disturbances
+(F1: 9.52%  |  EM: No)
+
+Q52. How did Luther express the destruction?
+Predicted answer: He reminded aggrieved to obey temporal authorities during tour of thuringia he became enraged at widespread burning of convents monasteries bishops palaces and libraries in against murderous thieving hordes of peasants written on his return to wittenberg he gave his interpretation of gospel teaching on wealth
+Golder answer: the devil's work
+(F1: 0.00%  |  EM: No)
+
+Q53. When were Luther and his prospective bride engaged?
+Predicted answer: 13 june 1525
+Golder answer: 13 June 1525
+(F1: 100.00%  |  EM: Yes)
+
+Q54. What kind of marriage was this ?
+Predicted answer: Clerical marriage
+Golder answer: clerical marriage
+(F1: 100.00%  |  EM: Yes)
+
+Q55. How did Luther show the Trinity in his catechisms?
+Predicted answer: As persons to be known
+Golder answer: as persons
+(F1: 57.14%  |  EM: No)
+
+Q56. What should a Christian follow in his life?
+Predicted answer: Ten commandments which christian should follow in his or her vocations
+Golder answer: Ten Commandments
+(F1: 30.77%  |  EM: No)
+
+Q57. What did Sasse proclaim Luther to be?
+Predicted answer: Blueprint
+Golder answer: greatest antisemite
+(F1: 0.00%  |  EM: No)
+
+Q58. How do some scholars view the Nazi use of Luther's work?
+Predicted answer: Opportunistic
+Golder answer: opportunistic
+(F1: 100.00%  |  EM: Yes)
+
+Q59. Other than the desert city why do many locals and tourists frequent southern California?
+Predicted answer: Its popular beaches
+Golder answer: beaches
+(F1: 50.00%  |  EM: No)
+
+Q60. Other than many sunny days, what characteristic is typical for the climate in souther California?
+Predicted answer: Serious rain
+Golder answer: infrequent rain
+(F1: 50.00%  |  EM: No)
+
+Q61. How many lines run out of Downtown Los Angeles?
+Predicted answer: Six
+Golder answer: Six
+(F1: 100.00%  |  EM: Yes)
+
+Q62. Sky UK Limited is formerly known by what name?
+Predicted answer: British sky broadcasting or bskyb
+Golder answer: BSkyB
+(F1: 33.33%  |  EM: No)
+
+Q63. what other digital TV service took Sky UK Limited's most popular spot?
+Predicted answer: Freeview
+Golder answer: Freeview
+(F1: 100.00%  |  EM: Yes)
+
+Q64. What platform was Sentanta Sports planning on launching on?
+Predicted answer: Digital terrestrial
+Golder answer: digital terrestrial
+(F1: 100.00%  |  EM: Yes)
+
+Q65. Does BSkyB carry any control over a channels content?
+Predicted answer: Bskyb does not carry any control over channel s content or carriage issues such as picture quality
+Golder answer: not
+(F1: 11.11%  |  EM: No)
+
+Q66. When was this proclamation issued?
+Predicted answer: 1598
+Golder answer: 1629
+(F1: 0.00%  |  EM: No)
+
+Q67. By what document did the Huguenots confess their faith to the Portuguese in Brazil?
+Predicted answer: Guanabara confession of faith
+Golder answer: the Guanabara Confession of Faith
+(F1: 100.00%  |  EM: Yes)
+
+Q68. Huguenots in Killeshandra and County Cavan expanded what agricultural industry?
+Predicted answer: Flax cultivation
+Golder answer: flax cultivation
+(F1: 100.00%  |  EM: Yes)
+
+Q69. What area in South Africa accepted Huguenot colonists?
+Predicted answer: Dutch cape colony
+Golder answer: Dutch Cape Colony
+(F1: 100.00%  |  EM: Yes)
+
+Q70. Reports document that how many Parisien Protestants were killed by September 17?
+Predicted answer: Almost 25 000
+Golder answer: almost 25,000
+(F1: 100.00%  |  EM: Yes)
+
+Q71. Along with toys, where are oscillating cylinder steam engines typically used?
+Predicted answer: 
+Golder answer: models
+(F1: 0.00%  |  EM: No)
+
+Q72. What do nuclear power plants heat to create electricity?
+Predicted answer: Water
+Golder answer: water
+(F1: 100.00%  |  EM: Yes)
+
+Q73. What is a descriptive term for a low-to-high energy bond?
+Predicted answer: Double bond
+Golder answer: Aufbau
+(F1: 0.00%  |  EM: No)
+
+Q74. What are the weakly filled higher orbitals of oxygen?
+Predicted answer: Antibonding
+Golder answer: antibonding
+(F1: 100.00%  |  EM: Yes)
+
+Q75. What group of scientists seek to measure the amounts of oxygen in marine animals?
+Predicted answer: Paleoclimatologists
+Golder answer: Paleoclimatologists
+(F1: 100.00%  |  EM: Yes)
+
+Q76. Where on Earth is free oxygen found?
+Predicted answer: Solution in world s water bodies
+Golder answer: water
+(F1: 28.57%  |  EM: No)
+
+Q77. What device is used to treat various conditions such as carbon monoxide poisoning?
+Predicted answer: Special oxygen chambers to increase partial pressure of o 2 around patient and when needed medical staff carbon monoxide poisoning gas gangrene and decompression sickness bends are sometimes treated using these devices increased o 2 concentration in lungs
+Golder answer: Hyperbaric (high-pressure) medicine
+(F1: 4.76%  |  EM: No)
+
+Q78. What gas does the airline exothermic reaction produce?
+Predicted answer: Oxygen gas
+Golder answer: oxygen gas
+(F1: 100.00%  |  EM: Yes)
+
+Q79. Which organic compounds contain the greatest amount of oxygen by mass?
+Predicted answer: Carbohydrates
+Golder answer: carbohydrates
+(F1: 100.00%  |  EM: Yes)
+
+Q80. How much was the emergency aid to Israel?
+Predicted answer: 2 2 billion
+Golder answer: $2.2 billion
+(F1: 66.67%  |  EM: Yes)
+
+Q81. What did the last few of the boilerplate CSM launches carry with them?
+Predicted answer: Pegasus satellites
+Golder answer: Pegasus satellites
+(F1: 100.00%  |  EM: Yes)
+
+Q82. When did the very first plugs-out test occur?
+Predicted answer: January 27 1967
+Golder answer: January 27, 1967
+(F1: 100.00%  |  EM: Yes)
+
+Q83. When was there an attempt to reform the law of the EU?
+Predicted answer: Following nice treaty
+Golder answer: Following the Nice Treaty
+(F1: 100.00%  |  EM: Yes)
+
+Q84. What must the adoption of laws which will have legal effect in the EU have?
+Predicted answer: Proper legal basis
+Golder answer: a proper legal basis
+(F1: 100.00%  |  EM: Yes)
+
+Q85. During what time did the rainforest spanned a narrow band? 
+Predicted answer: Oligocene
+Golder answer: During the Oligocene, for example, the rainforest spanned a relatively narrow band.
+(F1: 20.00%  |  EM: No)
+
+Q86.  What may have caused rainforests to grow across South America?
+Predicted answer: Extinction of dinosaurs and wetter climate
+Golder answer: the extinction of the dinosaurs and the wetter climate
+(F1: 100.00%  |  EM: Yes)
+
+Q87. What tool has measured the amount of dust that travels from the Sahara to the Amazon?
+Predicted answer: Nasa s calipso satellite
+Golder answer: NASA's CALIPSO satellite
+(F1: 100.00%  |  EM: Yes)
+
+Q88. What organization runs the satellite that measured dust that landed on the Amazon?
+Predicted answer: Nasa s calipso
+Golder answer: NASA
+(F1: 50.00%  |  EM: No)
+
+Q89. In lands attributed to what tribe are found remains of large settlements?
+Predicted answer: Xingu
+Golder answer: Xingu tribe
+(F1: 66.67%  |  EM: No)
+
+Q90. How many tree species are in the rainforest?
+Predicted answer: 1 100
+Golder answer: 1,100
+(F1: 100.00%  |  EM: Yes)
+
+Q91. Which animal that lives in the Amazon river may produce a deadly shock?
+Predicted answer: Electric eels
+Golder answer: electric eels
+(F1: 100.00%  |  EM: Yes)
+
+Q92. What are dart frogs are known to secrete?
+Predicted answer: Lipophilic alkaloid toxins through their flesh
+Golder answer: lipophilic alkaloid toxins
+(F1: 66.67%  |  EM: No)
+
+Q93. What are cestida called?
+Predicted answer: Belt animals
+Golder answer: belt animals
+(F1: 100.00%  |  EM: Yes)
+
+Q94. Where have herbivorous fishes been seen feeding on gelatinous zooplankton?
+Predicted answer: During
+Golder answer: the Red Sea
+(F1: 0.00%  |  EM: No)
+
+Q95. What present-day company did BankAmericard turn into?
+Predicted answer: Visa inc
+Golder answer: Visa Inc.
+(F1: 100.00%  |  EM: Yes)
+
+Q96. How many miles, once completed, will the the Lewis S. Eaton trail cover?
+Predicted answer: Five
+Golder answer: 22 miles
+(F1: 0.00%  |  EM: No)
+
+Q97. What is the most rainfall recorded in a 24 hour period in Fresno?
+Predicted answer: 3 55 inches
+Golder answer: 3.55 inches
+(F1: 100.00%  |  EM: Yes)
+
+Q98. What was the average family size?
+Predicted answer: 3 62
+Golder answer: 3.62
+(F1: 100.00%  |  EM: Yes)
+
+Q99. About how many of the Asian population was Hmong?
+Predicted answer: 11 2
+Golder answer: a third
+(F1: 0.00%  |  EM: No)
+
+Q100. What is KMJ now referred to?
+Predicted answer: Nbc affiliate ksee
+Golder answer: NBC affiliate KSEE
+(F1: 100.00%  |  EM: Yes)
+
+Q101. What was the purpose of CSNET
+Predicted answer: Extend networking benefits
+Golder answer: to extend networking benefits, for computer science departments at academic and research institutions that could not be directly connected to ARPANET
+(F1: 25.00%  |  EM: No)
+
+Q102. What do the strains of y. pestis suggest abut the plague?
+Predicted answer: May have entered europe in two waves
+Golder answer: the plague may have entered Europe in two waves
+(F1: 93.33%  |  EM: No)
+
+Q103. How many years could separate outbreaks of the black death?
+Predicted answer: 5 to 15
+Golder answer: 5 to 15 years
+(F1: 85.71%  |  EM: No)
+
+Q104. How many times did plague occur in Venice?
+Predicted answer: 22
+Golder answer: 22 times between 1361 and 1528
+(F1: 28.57%  |  EM: No)
+
+Q105. The presence or absence of what can be used to determine the relative age of the formations in which they are found? 
+Predicted answer: Absence
+Golder answer: organisms
+(F1: 0.00%  |  EM: No)
+
+Q106. Stable and radioactive isotope studies provide insight into what?
+Predicted answer: Geochemical evolution of rock units
+Golder answer: geochemical evolution of rock units
+(F1: 100.00%  |  EM: Yes)
+
+Q107. How did Brainbridge's official ledgers report revenue?
+Predicted answer: By department
+Golder answer: by department
+(F1: 100.00%  |  EM: Yes)
+
+Q108. What can be achieved without building high or getting rid of common areas?
+Predicted answer: High density
+Golder answer: high density
+(F1: 100.00%  |  EM: Yes)
+
+Q109. What folks are likely to use words like "howay" and "hadaway"?
+Predicted answer: Scots
+Golder answer: Scots
+(F1: 100.00%  |  EM: Yes)
+
+Q110. When did the theater in Newcastle originally open?
+Predicted answer: 21 january 1788
+Golder answer: 1788
+(F1: 50.00%  |  EM: No)
+
+Q111. Who holds an annual International Arts Fair in Newcastle?
+Predicted answer: Newcastlegateshead
+Golder answer: NewcastleGateshead
+(F1: 100.00%  |  EM: Yes)
+
+Q112. What famous 5.9-mile athletic event takes place annually in Newcastle in June?
+Predicted answer: Blaydon race
+Golder answer: Blaydon Race
+(F1: 100.00%  |  EM: Yes)
+
+Q113. What university won the award for Most IT enabled organisation?
+Predicted answer: Newcastle university
+Golder answer: Northumbria University
+(F1: 50.00%  |  EM: No)
+
+Q114. When could V&A Dundee?
+Predicted answer: Within five years
+Golder answer: within five years
+(F1: 100.00%  |  EM: Yes)
+
+Q115. Who was responsible for the decorations of the Grill Room?
+Predicted answer: Sir edward poynter
+Golder answer: Sir Edward Poynter
+(F1: 100.00%  |  EM: Yes)
+
+Q116. How many levels of galleries do the façades surround?
+Predicted answer: Four
+Golder answer: four
+(F1: 100.00%  |  EM: Yes)
+
+Q117. What items comprise the John Jones Collection?
+Predicted answer: Several cassone john jones collection of french 18th century art and furnishings
+Golder answer: French 18th-century art and furnishings
+(F1: 66.67%  |  EM: No)
+
+Q118. In which year was the John Jones Collection left to the museum?
+Predicted answer: 1882
+Golder answer: 1882
+(F1: 100.00%  |  EM: Yes)
+
+Q119. How many of the network's stations are owned-and-operated?
+Predicted answer: Eight
+Golder answer: eight
+(F1: 100.00%  |  EM: Yes)
+
+Q120. ABC aired symphony performances by what conductor?
+Predicted answer: Paul whiteman
+Golder answer: Paul Whiteman
+(F1: 100.00%  |  EM: Yes)
+
+Q121. What was the first international event broadcast by ABC?
+Predicted answer: Coronation of queen elizabeth ii
+Golder answer: coronation of Queen Elizabeth II
+(F1: 100.00%  |  EM: Yes)
+
+Q122. What country did ABC expand in to in the mid-1960s?
+Predicted answer: Beirut
+Golder answer: Beirut
+(F1: 100.00%  |  EM: Yes)
+
+Q123. When did the FCC approve UPT's purchase of ABC?
+Predicted answer: February 9 1953
+Golder answer: February 9, 1953
+(F1: 100.00%  |  EM: Yes)
+
+Q124. What reality series was the first spinoff of the Bachelor for ABC?
+Predicted answer: Bachelorette
+Golder answer: The Bachelorette
+(F1: 100.00%  |  EM: Yes)
+
+Q125. Goldenson proposed a merger between UPT and what network in October 1954?
+Predicted answer: Dumont
+Golder answer: DuMont Television Network
+(F1: 50.00%  |  EM: No)
+
+Q126. In August 1994, what Toledo, Ohio affiliate did ABC purchase?
+Predicted answer: Wjrt tv and wtvg
+Golder answer: WTVG
+(F1: 40.00%  |  EM: No)
+
+Q127. What game show debuted on ABC in 2007 as a replacement for striking programs?
+Predicted answer: Duel
+Golder answer: Duel
+(F1: 100.00%  |  EM: Yes)
+
+Q128. What percentage of prime-time TV viewership did the three big networks represent in 1980?
+Predicted answer: 90
+Golder answer: 90%
+(F1: 100.00%  |  EM: Yes)
+
+Q129. In 1990, what was the longest running primetime entertainment program in ABC's history?
+Predicted answer: America s funniest home videos
+Golder answer: America's Funniest Home Videos
+(F1: 100.00%  |  EM: Yes)
+
+Q130. What does ABC on Demand disallow for online viewers?
+Predicted answer: Fast forwarding of accessed content
+Golder answer: fast forwarding of accessed content
+(F1: 100.00%  |  EM: Yes)
+
+Q131. $500 Million was supplied for the Capital City - ABC merger by what investor?
+Predicted answer: Leonard goldenson
+Golder answer: Warren Buffett
+(F1: 0.00%  |  EM: No)
+
+Q132. Who did Jamukha support that were not part of Temüjin's power base?
+Predicted answer: Traditional mongolian aristocracy
+Golder answer: the traditional Mongolian aristocracy
+(F1: 100.00%  |  EM: Yes)
+
+Q133. By what name was the Mongol army that finally conquered Bulgaria known?
+Predicted answer: 
+Golder answer: the Golden Horde
+(F1: 0.00%  |  EM: No)
+
+Q134. Where did Jochi remain after Genghis Khan sent for his sons in the spring of 1223?
+Predicted answer: Khorasan
+Golder answer: Khorasan
+(F1: 100.00%  |  EM: Yes)
+
+Q135. What cells are the second arm of the innate immune system?
+Predicted answer: Leukocytes
+Golder answer: Leukocytes (white blood cells)
+(F1: 40.00%  |  EM: No)
+
+Q136. Hormones can alter the sensitivity of the immune system, so they can be referred to as what?
+Predicted answer: Immunomodulators
+Golder answer: immunomodulators
+(F1: 100.00%  |  EM: Yes)
+
+Q137. What two scientists were proponents of the humoral theory of immunity?
+Predicted answer: Robert koch and emil von behring
+Golder answer: Robert Koch and Emil von Behring
+(F1: 100.00%  |  EM: Yes)
+
+Q138. Who was famous for disobedience against a tax collector?
+Predicted answer: 
+Golder answer: Thoreau
+(F1: 0.00%  |  EM: No)
+
+Q139. What is essential for the successful execution of a project?
+Predicted answer: Effective planning
+Golder answer: effective planning
+(F1: 100.00%  |  EM: Yes)
+
+Q140. Refineries, process chemical, power generation, mills and manufacturing plants are under what sector of construction?
+Predicted answer: Industrial
+Golder answer: Industrial
+(F1: 100.00%  |  EM: Yes)
+
+Q141. Who may seek changes or exemptions in the law that governs the land where the building will be built?
+Predicted answer: Attorney
+Golder answer: An attorney
+(F1: 100.00%  |  EM: Yes)
+
+Q142. Any subcontractor has a direct contractual relationship with who?
+Predicted answer: Main contractor
+Golder answer: the main contractor
+(F1: 100.00%  |  EM: Yes)
+
+Q143. What is issued once construction is complete and a final inspection has been passed?
+Predicted answer: Occupancy permit
+Golder answer: an occupancy permit
+(F1: 100.00%  |  EM: Yes)
+
+Q144. What is the duration of Harvard Academic year?
+Predicted answer: Mid may
+Golder answer: beginning in early September and ending in mid-May
+(F1: 36.36%  |  EM: No)
+
+Q145. How many intercollegiate sports does Harvard compete in NCAA division I
+Predicted answer: 42
+Golder answer: 42
+(F1: 100.00%  |  EM: Yes)
+
+Q146. Who mapped the St. Johns River in 1562?
+Predicted answer: Jean ribault
+Golder answer: Jean Ribault
+(F1: 100.00%  |  EM: Yes)
+
+Q147. What was the name of the battle that marked the first Confederate win in Florida?
+Predicted answer: Battle of olustee
+Golder answer: The Skirmish of the Brick Church
+(F1: 28.57%  |  EM: No)
+
+Q148. What was the result of the 1967 referendum?
+Predicted answer: Consolidation
+Golder answer: voters approved the plan
+(F1: 0.00%  |  EM: No)
+
+Q149. Survivial is at the heart of what concept for workers?
+Predicted answer: Self employment
+Golder answer: Necessity-based entrepreneurship
+(F1: 0.00%  |  EM: No)
+
+Q150. What has replaced lower skilled workers in the United States?
+Predicted answer: Machine labor in wealth
+Golder answer: machine labor
+(F1: 66.67%  |  EM: No)
+
+Q151. Who plotted the relationships between levels of income and inequality?
+Predicted answer: Kuznets
+Golder answer: Kuznets
+(F1: 100.00%  |  EM: Yes)
+
+Q152. Health problems were lower in places with higher levels of what?
+Predicted answer: Inequality
+Golder answer: equality
+(F1: 0.00%  |  EM: No)
+
+Q153. Where are health and social problems most common?
+Predicted answer: Countries with bigger income inequalities
+Golder answer: among states in the US with larger income inequalities
+(F1: 46.15%  |  EM: No)
+
+Q154. Who approached the BBC in 1989 about relaunching the show?
+Predicted answer: Philip segal
+Golder answer: Philip Segal
+(F1: 100.00%  |  EM: Yes)
+
+Q155. What other series mentioned returned with a plot continuation?
+Predicted answer: 
+Golder answer: Mission Impossible,
+(F1: 0.00%  |  EM: No)
+
+Q156. What publication did Philip Howard work for?
+Predicted answer: Times
+Golder answer: The Times newspaper
+(F1: 66.67%  |  EM: No)
+
+Q157. How did the BBC get audio versions of the lost episodes?
+Predicted answer: Exist from home viewers who made tape recordings of show
+Golder answer: home viewers who made tape recordings of the show
+(F1: 88.89%  |  EM: No)
+
+Q158. What was the name of the 50th Anniversary episode?
+Predicted answer: Day of doctor
+Golder answer: The Day of the Doctor
+(F1: 100.00%  |  EM: Yes)
+
+Q159. In what series was the Master reintroduced?
+Predicted answer: Series 3
+Golder answer: 3
+(F1: 66.67%  |  EM: No)
+
+Q160. What made the student decide to occupy the president's office in protest?
+Predicted answer: Off campus rental policies
+Golder answer: the university's off-campus rental policies.
+(F1: 80.00%  |  EM: No)
+
+Q161. How many academic minors does the university grant in total?
+Predicted answer: 28
+Golder answer: 28
+(F1: 100.00%  |  EM: Yes)
+
+Q162. Roughly how much is the Student Government's budget?
+Predicted answer: Greater than 2 million
+Golder answer: greater than $2 million
+(F1: 100.00%  |  EM: Yes)
+
+Q163. What Chinese-style name did Rinchinbal use?
+Predicted answer: Emperor ningzong
+Golder answer: Emperor Ningzong
+(F1: 100.00%  |  EM: Yes)
+
+Q164. Which arts were often practiced together by the same artists?
+Predicted answer: Painting poetry and calligraphy
+Golder answer: painting, poetry, and calligraphy
+(F1: 100.00%  |  EM: Yes)
+
+Q165. Why has the corruption not be in the public view?
+Predicted answer: Less in public view and thus less subject to public scrutiny and notoriety
+Golder answer: Because the operations of the armed forces have been traditionally cloaked by the ubiquitous blanket of “state security”
+(F1: 0.00%  |  EM: No)
+
+Q166. What year did AGOA take effect?
+Predicted answer: 2000
+Golder answer: 2000
+(F1: 100.00%  |  EM: Yes)
+
+Q167. What is Vision 2030?
+Predicted answer: Economic development programme
+Golder answer: an economic development programme it hopes will put the country in the same league as the Asian Economic Tigers by the year 2030
+(F1: 28.57%  |  EM: No)
+
+Q168. What kind of chloroplasts did diatoms have but lost?
+Predicted answer: Red algal derived chloroplast
+Golder answer: green algal derived chloroplast
+(F1: 75.00%  |  EM: No)
+
+Q169. How large are granal thylakoids?
+Predicted answer: 300 – 600 nanometers in diameter
+Golder answer: about 300–600 nanometers in diameter
+(F1: 54.55%  |  EM: No)
+
+Q170. What is one function that prime numbers have that 1 does not?
+Predicted answer: Sum of divisors function
+Golder answer: the sum of divisors function
+(F1: 100.00%  |  EM: Yes)
+
+Q171. According to the Riemann hypothesis, all zeroes of the ζ-function have real part equal to 1/2 except for what values of s?
+Predicted answer: −2
+Golder answer: s = −2, −4, ...,
+(F1: 50.00%  |  EM: No)
+
+Q172. How long is the Rhine?
+Predicted answer: 1 230 km
+Golder answer: 1,230 km (760 mi)
+(F1: 75.00%  |  EM: No)
+
+Q173. What does the name The Rhine come from? 
+Predicted answer: Renos
+Golder answer: Gaulish name Rēnos
+(F1: 0.00%  |  EM: No)
+
+Q174. Besides constant flooding, why else was there regulation of the Rhine?
+Predicted answer: Strong sedimentation
+Golder answer: strong sedimentation
+(F1: 100.00%  |  EM: Yes)
+
+Q175. What is the first major bend in the Rhine called?
+Predicted answer: Rhine knee
+Golder answer: Rhine knee
+(F1: 100.00%  |  EM: Yes)
+
+Q176. What carries a significant amount of the Rhine flow through France?
+Predicted answer: Grand canal d alsace
+Golder answer: Grand Canal d'Alsace
+(F1: 100.00%  |  EM: Yes)
+
+Q177. When was the Scottish Constitutional Convention held?
+Predicted answer: 1989
+Golder answer: 1989
+(F1: 100.00%  |  EM: Yes)
+
+Q178. What nationality is the architect Enric Miralles?
+Predicted answer: Spanish
+Golder answer: Spanish
+(F1: 100.00%  |  EM: Yes)
+
+Q179. Who is currently speaker of the Scottish Parliament?
+Predicted answer: Tricia marwick
+Golder answer: Tricia Marwick
+(F1: 100.00%  |  EM: Yes)
+
+Q180. How many members in the seats of the Scottish Parliament are members of the Scottish Government?
+Predicted answer: 2
+Golder answer: 2
+(F1: 100.00%  |  EM: Yes)
+
+Q181. Who are committees comprised of?
+Predicted answer: Msps
+Golder answer: a small number of MSPs
+(F1: 40.00%  |  EM: No)
+
+Q182. What session is the Scottish Parliament in?
+Predicted answer: Fourth
+Golder answer: fourth
+(F1: 100.00%  |  EM: Yes)
+
+Q183. Who may change the date by up to a month, on the proposal of the PO?
+Predicted answer: Monarch
+Golder answer: the Monarch
+(F1: 100.00%  |  EM: Yes)
+
+Q184. What does the First Minister deliver at the beginning of each parliamentary year?
+Predicted answer: Statement to chamber setting out government s legislative programme
+Golder answer: legislative programme for the forthcoming year
+(F1: 28.57%  |  EM: No)
+
+Q185. What is the number of Constituency MSPs?
+Predicted answer: 129
+Golder answer: 73
+(F1: 0.00%  |  EM: No)
+
+Q186. What type of role that Islamism seeks makes it a somewhat controversial concept?
+Predicted answer: Political
+Golder answer: political
+(F1: 100.00%  |  EM: Yes)
+
+Q187. Iqbal worried that India's mostly Hindu population would do what to Muslim heritage and culture?
+Predicted answer: Crowd out muslim heritage culture and political influence
+Golder answer: crowd out
+(F1: 40.00%  |  EM: No)
+
+Q188. By what method did Maududi want to change the hearts and minds of individuals?
+Predicted answer: Educational process or da wah
+Golder answer: an educational process
+(F1: 57.14%  |  EM: No)
+
+Q189. When did the Syrian Civil War begin?
+Predicted answer: March 2011
+Golder answer: March 2011
+(F1: 100.00%  |  EM: Yes)
+
+Q190. Which American show changed the views of Romanians during the cold war?
+Predicted answer: Dallas
+Golder answer: Dallas
+(F1: 100.00%  |  EM: Yes)
+
+Q191. What is that grace of God which sustains the believers in the journey towards Christian Perfection?
+Predicted answer: Sanctifying grace
+Golder answer: Sanctifying Grace
+(F1: 100.00%  |  EM: Yes)
+
+Q192. What is the governing committee  that voted in favor of a proposal that would permit ministers to officiate same-sex weddings?
+Predicted answer: Connectional table
+Golder answer: Connectional Table
+(F1: 100.00%  |  EM: Yes)
+
+Q193. The Church rejects was as an instrument of what?
+Predicted answer: National foreign policy
+Golder answer: instrument of national foreign policy
+(F1: 75.00%  |  EM: No)
+
+Q194. The UMC teaches that pornography is about what?
+Predicted answer: Violence degradation exploitation and coercion
+Golder answer: violence, degradation, exploitation, and coercion
+(F1: 100.00%  |  EM: Yes)
+
+Q195. What consist of one ore more Annual Conferences?
+Predicted answer: Episcopal areas
+Golder answer: Episcopal Areas
+(F1: 100.00%  |  EM: Yes)
+
+Q196. What is the title for a seminary graduate who serves a two-three-year term in full-time appointment after being commissioned?
+Predicted answer: Provisional elder deacon
+Golder answer: The provisional elder/deacon
+(F1: 100.00%  |  EM: Yes)
+
+Q197. What are members who have been baptized as an infant or child but who have not subsequently professed their own faith?
+Predicted answer: Baptized members
+Golder answer: Baptized Members
+(F1: 100.00%  |  EM: Yes)
+
+Q198. When was King George's war?
+Predicted answer: 1740s
+Golder answer: 1740s
+(F1: 100.00%  |  EM: Yes)
+
+Q199. What was Old Briton's response to Celeron?
+Predicted answer: Ignored warning
+Golder answer: ignored the warning.
+(F1: 100.00%  |  EM: Yes)
+
+Q200. Where does a canonball dropped from the crow's nest of a ship actually land?
+Predicted answer: Behind foot of mast
+Golder answer: foot of the mast
+(F1: 85.71%  |  EM: No)

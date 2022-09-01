@@ -1,0 +1,1003 @@
+
+Mean F1: 74.44%  |  Mean EM: 59.00%
+
+
+Q1. Which Super Bowl was hosted in San Diego in 2003? 
+Predicted answer: Super bowl xxxvii
+Golder answer: Super Bowl XXXVII
+(F1: 100.00%  |  EM: Yes)
+
+Q2. How many Panthers players were chosen for the 2015 season's Pro Bowl?
+Predicted answer: Ten
+Golder answer: Ten
+(F1: 100.00%  |  EM: Yes)
+
+Q3. How many Offensive players from the Panthers were selected to play in the Pro Bowl?
+Predicted answer: Six
+Golder answer: six
+(F1: 100.00%  |  EM: Yes)
+
+Q4. What injury did Manning suffer the summer before the season started?
+Predicted answer: Plantar fasciitis
+Golder answer: a plantar fasciitis injury
+(F1: 80.00%  |  EM: No)
+
+Q5. How many picks did Peyton Manning throw in the season?
+Predicted answer: Nine
+Golder answer: 17
+(F1: 0.00%  |  EM: No)
+
+Q6. Who lost to the Broncos in the divisional round?
+Predicted answer: Pittsburgh steelers
+Golder answer: Pittsburgh Steelers
+(F1: 100.00%  |  EM: Yes)
+
+Q7. What position did Rivera play in Super Bowl XX?
+Predicted answer: Linebacker
+Golder answer: linebacker
+(F1: 100.00%  |  EM: Yes)
+
+Q8. What color pants did the Broncos wear in Super Bowl 50?
+Predicted answer: White
+Golder answer: white
+(F1: 100.00%  |  EM: Yes)
+
+Q9. According to the text, how much money did the Host Committee raise?
+Predicted answer: Over 40 million
+Golder answer: over $40 million
+(F1: 100.00%  |  EM: Yes)
+
+Q10. New cameras were introduced for the game, what degree of view do they provide viewers?
+Predicted answer: 360 degree
+Golder answer: 360-degree
+(F1: 100.00%  |  EM: Yes)
+
+Q11. Who covered the halftime coverage?
+Predicted answer: Jim gray
+Golder answer: Jim Gray
+(F1: 100.00%  |  EM: Yes)
+
+Q12. Who kicked a field goal for Denver?
+Predicted answer: Brandon mcmanus
+Golder answer: Brandon McManus
+(F1: 100.00%  |  EM: Yes)
+
+Q13. Which Denver player took the ball to the Panthers 14 yard line?
+Predicted answer: C j anderson
+Golder answer: C. J. Anderson
+(F1: 100.00%  |  EM: Yes)
+
+Q14. How much time was left in the quarter when Stewart got the touchdown?
+Predicted answer: 11 28
+Golder answer: 11:28
+(F1: 100.00%  |  EM: Yes)
+
+Q15. Who did Newton complete a 45 yard pass to on the opening drive of the second half?
+Predicted answer: Ted ginn jr
+Golder answer: Ted Ginn Jr.
+(F1: 100.00%  |  EM: Yes)
+
+Q16. Who caught two passes from Manning after the failed Carolina field goal attempt?
+Predicted answer: Emmanuel sanders
+Golder answer: Emmanuel Sanders
+(F1: 100.00%  |  EM: Yes)
+
+Q17. Who had a 12-yard rush on this drive?
+Predicted answer: Stewart
+Golder answer: Stewart
+(F1: 100.00%  |  EM: Yes)
+
+Q18. How far from Warsaw does the Vistula river's environment change noticeably? 
+Predicted answer: 15 kilometres 9 miles
+Golder answer: 15 kilometres
+(F1: 66.67%  |  EM: No)
+
+Q19. How many of Warsaw's inhabitants spoke Polish in 1933?
+Predicted answer: 1 178 914
+Golder answer: 833,500
+(F1: 0.00%  |  EM: No)
+
+Q20. What was Warsaw's first literary cabaret?
+Predicted answer: Momus
+Golder answer: Momus
+(F1: 100.00%  |  EM: Yes)
+
+Q21. What does the Museum of the Polish Army portray the history of?
+Predicted answer: History of arms
+Golder answer: arms
+(F1: 50.00%  |  EM: No)
+
+Q22. How many projects does the Centre currently realize a year?
+Predicted answer: 500
+Golder answer: about 500
+(F1: 66.67%  |  EM: No)
+
+Q23. What did Warsz own?
+Predicted answer: Warcisław
+Golder answer: a village
+(F1: 0.00%  |  EM: No)
+
+Q24. How high is the highest point in Warsaw?
+Predicted answer: 115 7 metres
+Golder answer: 452.8 ft
+(F1: 0.00%  |  EM: No)
+
+Q25. How much of Poland's national income does Warsaw produce?
+Predicted answer: 12
+Golder answer: 12%
+(F1: 100.00%  |  EM: Yes)
+
+Q26. How far is Warsaw from the Baltic Sea?
+Predicted answer: 260 kilometres
+Golder answer: roughly 260 kilometres
+(F1: 80.00%  |  EM: No)
+
+Q27. When were the Normans in Normandy?
+Predicted answer: 10th and 11th centuries
+Golder answer: 10th and 11th centuries
+(F1: 100.00%  |  EM: Yes)
+
+Q28. Who was Robert's son?
+Predicted answer: Bohemond
+Golder answer: Bohemond
+(F1: 100.00%  |  EM: Yes)
+
+Q29. What did Tesla explore in Tominaj?
+Predicted answer: Mountains
+Golder answer: the mountains
+(F1: 100.00%  |  EM: Yes)
+
+Q30. When was Tesla Electric Company formed?
+Predicted answer: April 1887
+Golder answer: April 1887
+(F1: 100.00%  |  EM: Yes)
+
+Q31. Where was Tesla's laboratory established?
+Predicted answer: South fifth avenue laboratory
+Golder answer: New York
+(F1: 0.00%  |  EM: No)
+
+Q32. Who received a bid in 1915?
+Predicted answer: Edison
+Golder answer: Edison
+(F1: 100.00%  |  EM: Yes)
+
+Q33. For how long did Tesla receive this compensation?
+Predicted answer: 
+Golder answer: for the rest of Tesla's life
+(F1: 0.00%  |  EM: No)
+
+Q34. When did Tesla start working on the problem of energy and matter?
+Predicted answer: 1892
+Golder answer: 1892
+(F1: 100.00%  |  EM: Yes)
+
+Q35. In a computational problem, what can be described as a string over an alphabet?
+Predicted answer: Bitstrings
+Golder answer: problem instance
+(F1: 0.00%  |  EM: No)
+
+Q36. What measurement of time is used in polynomial time reduction?
+Predicted answer: Polynomial time for example problem of squaring integer
+Golder answer: polynomial time
+(F1: 40.00%  |  EM: No)
+
+Q37. What variable is associated with all problems solved within logarithmic space?
+Predicted answer: L
+Golder answer: L
+(F1: 100.00%  |  EM: Yes)
+
+Q38. What is the paper written by Richard Karp in 1972 that ushered in a new era of understanding between intractability and NP-complete problems?
+Predicted answer: Reducibility among combinatorial problems
+Golder answer: "Reducibility Among Combinatorial Problems"
+(F1: 100.00%  |  EM: Yes)
+
+Q39. Where is a teacher most likely to be teaching at?
+Predicted answer: School or other place of formal education
+Golder answer: school
+(F1: 25.00%  |  EM: No)
+
+Q40. A teacher's spark may create a spark where?
+Predicted answer: Excitement in student
+Golder answer: in the student
+(F1: 80.00%  |  EM: No)
+
+Q41. What area differs from other areas in the United Kingdom regarding education?
+Predicted answer: Education in wales
+Golder answer: Wales
+(F1: 50.00%  |  EM: No)
+
+Q42. How did Luther describe his time in the order?
+Predicted answer: Deep spiritual despair
+Golder answer: deep spiritual despair
+(F1: 100.00%  |  EM: Yes)
+
+Q43. Who attempted to arrange a compromise?
+Predicted answer: Karl von miltitz
+Golder answer: Karl von Miltitz
+(F1: 100.00%  |  EM: Yes)
+
+Q44. When did Luther write Wir glauben all an einen Gott?
+Predicted answer: 1524
+Golder answer: 1524
+(F1: 100.00%  |  EM: Yes)
+
+Q45. What did the hymn, Aus tiefer Not express?
+Predicted answer: Essential reformation doctrine
+Golder answer: Reformation doctrine
+(F1: 80.00%  |  EM: No)
+
+Q46. When is Luther commemorated by the Church of England?
+Predicted answer: 31 october
+Golder answer: 31 October
+(F1: 100.00%  |  EM: Yes)
+
+Q47. Which border does the megaregion extend over?
+Predicted answer: Mexican border
+Golder answer: Mexican
+(F1: 66.67%  |  EM: No)
+
+Q48. What resource is the economy of southern California depedent on?
+Predicted answer: Petroleum
+Golder answer: petroleum
+(F1: 100.00%  |  EM: Yes)
+
+Q49. when did the English High court find Microsoft's use of the term "SkyDrive" infringed on Sky's right?
+Predicted answer: July 2013
+Golder answer: July 2013
+(F1: 100.00%  |  EM: Yes)
+
+Q50. What kind of service is the SkyDrive Service?
+Predicted answer: Cloud storage
+Golder answer: cloud storage
+(F1: 100.00%  |  EM: Yes)
+
+Q51. How many Victorians are Buddhist?
+Predicted answer: 168 637 members as of most recent census victoria is also home of 152 775
+Golder answer: 168,637
+(F1: 23.53%  |  EM: No)
+
+Q52. What is the gauge of the Victorian rail lines?
+Predicted answer: 1 600 mm 5 ft 3 in broad gauge
+Golder answer: 1,600 mm
+(F1: 50.00%  |  EM: No)
+
+Q53. What was the proportion of Huguenots to Catholics at their peak?
+Predicted answer: One eighth
+Golder answer: about one-eighth the number
+(F1: 66.67%  |  EM: No)
+
+Q54. What was required of Huguenot children after the Edict was revoked?
+Predicted answer: Education
+Golder answer: education of children as Catholics
+(F1: 33.33%  |  EM: No)
+
+Q55. What are the stages in a compound engine called?
+Predicted answer: Expansions
+Golder answer: expansions
+(F1: 100.00%  |  EM: Yes)
+
+Q56. In what part of the 19th century were steam turbines introduced?
+Predicted answer: Late
+Golder answer: late
+(F1: 100.00%  |  EM: Yes)
+
+Q57. In what year was the Corliss engine patented?
+Predicted answer: 1849
+Golder answer: 1849
+(F1: 100.00%  |  EM: Yes)
+
+Q58. What was developed from Watt's measurements on a model steam engine?
+Predicted answer: Separate condenser
+Golder answer: condenser
+(F1: 66.67%  |  EM: No)
+
+Q59. People of what nationality invented the steam turbine?
+Predicted answer: British
+Golder answer: British
+(F1: 100.00%  |  EM: Yes)
+
+Q60. Oxygen is released in cellular respiration by?
+Predicted answer: Photosynthesis
+Golder answer: photosynthesis
+(F1: 100.00%  |  EM: Yes)
+
+Q61. Combustion is caused by an oxidant and a fuel. What role does oxygen play in combustion?
+Predicted answer: Source of most of chemical energy
+Golder answer: Oxygen is the oxidant
+(F1: 0.00%  |  EM: No)
+
+Q62. What spacecraft contained data to determine the oxygen content of the Sun?
+Predicted answer: Crashed genesis spacecraft
+Golder answer: Genesis spacecraft
+(F1: 80.00%  |  EM: No)
+
+Q63. By what process is singlet oxygen made in the tropophere?
+Predicted answer: Photolysis of ozone
+Golder answer: photolysis of ozone
+(F1: 100.00%  |  EM: Yes)
+
+Q64. When did oxygen begin to move from the oceans to the atmosphere?
+Predicted answer: 3 – 2 7 billion years ago
+Golder answer: 3–2.7 billion years ago
+(F1: 66.67%  |  EM: No)
+
+Q65. In how many places is oxygen stored in its cycle?
+Predicted answer: Three main reservoirs on earth atmosphere biosphere and lithosphere main driving factor of oxygen cycle is photosynthesis which is responsible for modern earth s atmosphere photosynthesis releases oxygen into atmosphere while respiration and decay remove it from atmosphere in present equilibrium production and consumption occur at same rate of roughly 1 2000th of entire atmospheric oxygen per year
+Golder answer: three
+(F1: 3.39%  |  EM: No)
+
+Q66. Why did the Shah of Iran gave an interview?
+Predicted answer: 
+Golder answer: renewal of hostilities in the Arab–Israeli conflict
+(F1: 0.00%  |  EM: No)
+
+Q67. How many astronauts was the LM intended to take from orbit of the moon to the surface of the moon?
+Predicted answer: Two
+Golder answer: two
+(F1: 100.00%  |  EM: Yes)
+
+Q68. Who selected the first Apollo crew?
+Predicted answer: Deke slayton
+Golder answer: Deke Slayton
+(F1: 100.00%  |  EM: Yes)
+
+Q69. In what month and year was the AS-258 scheduled to launch?
+Predicted answer: December 1966
+Golder answer: August 1967
+(F1: 0.00%  |  EM: No)
+
+Q70. What had to happen to each mission before they would continue on to the next mission?
+Predicted answer: Each step had to be successfully accomplished
+Golder answer: successful
+(F1: 0.00%  |  EM: No)
+
+Q71. What was the nickname for the test where, during abort mode, the ascent engine was started and fired?
+Predicted answer: Fire in hole
+Golder answer: "fire-in-the-hole"
+(F1: 100.00%  |  EM: Yes)
+
+Q72. What would the latter Apollo missions carry to the moon to increase exploration?
+Predicted answer: Lunar roving vehicle
+Golder answer: Lunar Roving Vehicle (LRV)
+(F1: 85.71%  |  EM: No)
+
+Q73. Was this footage compatible or incompatible with live broadcast TV formats?
+Predicted answer: Incompatible
+Golder answer: incompatible
+(F1: 100.00%  |  EM: Yes)
+
+Q74. Which court is the highest court in the European Union?
+Predicted answer: European court of justice
+Golder answer: The European Court of Justice
+(F1: 100.00%  |  EM: Yes)
+
+Q75. How did the principle treaties that form the European Union begin?
+Predicted answer: With common rules for coal and steel
+Golder answer: with common rules for coal and steel, and then atomic energy
+(F1: 77.78%  |  EM: No)
+
+Q76. How long has Proportionality been recognized as one of the general principles of EU law?
+Predicted answer: Since 1950s
+Golder answer: since the 1950s
+(F1: 100.00%  |  EM: Yes)
+
+Q77. When was the concept of a social market economy introduced into EU law?
+Predicted answer: 2007
+Golder answer: 2007
+(F1: 100.00%  |  EM: Yes)
+
+Q78. What did the Dutch health authorities regard as unnecessary in Geraets-Smits v Stichting Ziekenfonds?
+Predicted answer: Mrs geraets smits claimed she should be reimbursed by dutch social insurance for costs of receiving treatment
+Golder answer: the treatment
+(F1: 11.11%  |  EM: No)
+
+Q79. Which book discussed the theory about low populations in the Amazon rainforest?
+Predicted answer: Amazonia man and culture in counterfeit paradise
+Golder answer: Amazonia: Man and Culture in a Counterfeit Paradise
+(F1: 100.00%  |  EM: Yes)
+
+Q80. In the 1980s what was the population of the amazon region?
+Predicted answer: Less than 200 000
+Golder answer: 200,000.
+(F1: 66.67%  |  EM: No)
+
+Q81. Where does the Amazon region rate among the entire earth for its amount of biodiversity?
+Predicted answer: Highest
+Golder answer: highest on Earth
+(F1: 50.00%  |  EM: No)
+
+Q82. Classifying the stages of what is important to mapping aspects of the Amazon?
+Predicted answer: Tree growth stages
+Golder answer: tree growth
+(F1: 80.00%  |  EM: No)
+
+Q83. What entity sparked the growth of Fresno Station?
+Predicted answer: Store
+Golder answer: store
+(F1: 100.00%  |  EM: Yes)
+
+Q84. Which boulevard can you find many majestic homes in the area?
+Predicted answer: Huntington boulevard
+Golder answer: Huntington Boulevard
+(F1: 100.00%  |  EM: Yes)
+
+Q85. Gateways allowed private companies to do what 
+Predicted answer: Reach locations not on private network
+Golder answer: private networks were often connected via gateways to the public network to reach locations not on the private network
+(F1: 52.17%  |  EM: No)
+
+Q86. What are clades?
+Predicted answer: Genetic branches of y pestis genome associated with medieval mass graves these clades which are thought to be extinct
+Golder answer: genetic branches
+(F1: 19.05%  |  EM: No)
+
+Q87. How much of Paris' population was killed by the plague?
+Predicted answer: Half of paris s population of 100 000
+Golder answer: Half of Paris's population of 100,000 people
+(F1: 82.35%  |  EM: No)
+
+Q88. What type of rock is found at the Grand Canyon?
+Predicted answer: 
+Golder answer: sedimentary rocks
+(F1: 0.00%  |  EM: No)
+
+Q89. Who designed the Sage Gateshead music center?
+Predicted answer: Norman foster
+Golder answer: Norman Foster
+(F1: 100.00%  |  EM: Yes)
+
+Q90. What school did both Hank Marvin and Bruce Welch attend?
+Predicted answer: Rutherford grammar school
+Golder answer: Rutherford Grammar School
+(F1: 100.00%  |  EM: Yes)
+
+Q91. What Italian painter was depicted in the main bronze door entrance of the museum?
+Predicted answer: 
+Golder answer: Titian
+(F1: 0.00%  |  EM: No)
+
+Q92. Most of the Chinese works of art in the Far Eastern collections date from which two dynasties?
+Predicted answer: Ming and qing
+Golder answer: Ming and Qing
+(F1: 100.00%  |  EM: Yes)
+
+Q93. In which year are the Meissen Vulture in the V&A collection dated?
+Predicted answer: 1731
+Golder answer: 1731
+(F1: 100.00%  |  EM: Yes)
+
+Q94. What are the largest objects in the V&A ceramics and glass collection?
+Predicted answer: Series of elaborately ornamented ceramic stoves
+Golder answer: ceramic stoves
+(F1: 50.00%  |  EM: No)
+
+Q95. When did the V&A acquired the Costiff collection?
+Predicted answer: 2002
+Golder answer: 2002
+(F1: 100.00%  |  EM: Yes)
+
+Q96. Which sculpture by Rodin was not donated by the artist?
+Predicted answer: St john baptist
+Golder answer: St John the Baptist
+(F1: 100.00%  |  EM: Yes)
+
+Q97. Which museum was among those that loaned more modern works for the new sculpture galleries?
+Predicted answer: Tate britain
+Golder answer: Tate Britain
+(F1: 100.00%  |  EM: Yes)
+
+Q98. The theatre collection starts from the time of which famous Elizabethan playwright?
+Predicted answer: Shakespeare s day
+Golder answer: Shakespeare
+(F1: 50.00%  |  EM: No)
+
+Q99. What network was converted into an independent subsidiary by RCA in 1942?
+Predicted answer: Nbc blue network
+Golder answer: NBC Blue Network
+(F1: 100.00%  |  EM: Yes)
+
+Q100. Where were ABC's international networks mainly situated in the 1970s?
+Predicted answer: Japan and latin america
+Golder answer: Japan and Latin America
+(F1: 100.00%  |  EM: Yes)
+
+Q101. Why was NBC unable to broadcast the coronation of Queen Elizabeth II?
+Predicted answer: Flight delays
+Golder answer: flight delays
+(F1: 100.00%  |  EM: Yes)
+
+Q102. When did the logo bug begin appearing throughout the entire program for ABC shows?
+Predicted answer: 1993 – 94 season appearing initially only for 60 seconds at beginning of act or segment before appearing throughout programs except during commercial breaks beginning in 1995 – 96 season
+Golder answer: 1995–96 season
+(F1: 6.25%  |  EM: No)
+
+Q103. What television trend are Charlies Angels and Three's Company an example of?
+Predicted answer: Jiggle tv
+Golder answer: jiggle TV
+(F1: 100.00%  |  EM: Yes)
+
+Q104. In August 1994, which Flint, Michigan affiliate did ABC purchase?
+Predicted answer: Wjrt tv and wtvg
+Golder answer: WJRT-TV
+(F1: 66.67%  |  EM: No)
+
+Q105. How much did Capital Cities/ABC report in revenues in 1990?
+Predicted answer: 465 million
+Golder answer: $465 million
+(F1: 100.00%  |  EM: Yes)
+
+Q106. What soap opera is currently featured in ABC's daytime programming?
+Predicted answer: General hospital
+Golder answer: General Hospital
+(F1: 100.00%  |  EM: Yes)
+
+Q107. Disney-ABC Television group implemented restrictions for Hulu and WATCH ABC that made episodes available only after how many days after initial broadcast?
+Predicted answer: Eight
+Golder answer: eight
+(F1: 100.00%  |  EM: Yes)
+
+Q108. Among whom was Genghis Khan's empire split after his death?
+Predicted answer: His sons and grandsons
+Golder answer: his sons and grandsons
+(F1: 100.00%  |  EM: Yes)
+
+Q109. Who was Genghis Khan's father?
+Predicted answer: Temujin uge
+Golder answer: Yesügei, a Khamag Mongol's major chief of the Kiyad
+(F1: 0.00%  |  EM: No)
+
+Q110. Which of his future general's fathers helped Temüjin escape the Tayichi'ud?
+Predicted answer: Jelme and bo orchu
+Golder answer: Chilaun
+(F1: 0.00%  |  EM: No)
+
+Q111. Who did Jamukha support that were not part of Temüjin's power base?
+Predicted answer: Traditional mongolian aristocracy
+Golder answer: the traditional Mongolian aristocracy
+(F1: 100.00%  |  EM: Yes)
+
+Q112. When did Genghis Khan capture the Jin dynasty capital?
+Predicted answer: 1215
+Golder answer: 1215
+(F1: 100.00%  |  EM: Yes)
+
+Q113. Where is Genghis Khan's presumed to have been delivered?
+Predicted answer: Mongolia
+Golder answer: Khentii Aimag
+(F1: 0.00%  |  EM: No)
+
+Q114. What is the minimum distance between a patient's home and the nearest pharmacy that allows a physician to give out medication?
+Predicted answer: 1 6 kilometres
+Golder answer: 1.6 kilometres
+(F1: 100.00%  |  EM: Yes)
+
+Q115. What are the agents detected by the immune system called?
+Predicted answer: Pathogens
+Golder answer: pathogens
+(F1: 100.00%  |  EM: Yes)
+
+Q116. What kind of cell identifies pathogens when the antibodies on its surface complex with a specific foreign antigen?
+Predicted answer: B cell
+Golder answer: B cell
+(F1: 100.00%  |  EM: Yes)
+
+Q117. The speed of the killing response of the human immune system is a product of what process?
+Predicted answer: Signal amplification
+Golder answer: signal amplification
+(F1: 100.00%  |  EM: Yes)
+
+Q118. The Mark of Anarchy was written to protest against what?
+Predicted answer: Political action
+Golder answer: unjust forms of authority
+(F1: 0.00%  |  EM: No)
+
+Q119. What two women were defying the pharaoh in the story from the book of Exodus? 
+Predicted answer: Shiphrah and puah
+Golder answer: Shiphrah and Puah
+(F1: 100.00%  |  EM: Yes)
+
+Q120. What is a simple form of civil disobedience?
+Predicted answer: Non revolutionary civil disobedience is simple disobedience of laws
+Golder answer: disobedience of laws
+(F1: 50.00%  |  EM: No)
+
+Q121. What is a recent civil disobedience done in a group form?
+Predicted answer: 
+Golder answer: refuse to sign bail
+(F1: 0.00%  |  EM: No)
+
+Q122. What is violating a law which is not the goal of the protest called?
+Predicted answer: Indirect civil disobedience
+Golder answer: Indirect civil disobedience
+(F1: 100.00%  |  EM: Yes)
+
+Q123. What leads to confusion and collapse?
+Predicted answer: Poorly drafted contracts
+Golder answer: poorly drafted contracts
+(F1: 100.00%  |  EM: Yes)
+
+Q124. What is PPP?
+Predicted answer: Public private partnering
+Golder answer: Public-Private Partnering
+(F1: 100.00%  |  EM: Yes)
+
+Q125. In April 2014, how many New Zealand students attended private schools?
+Predicted answer: 88
+Golder answer: 28,000
+(F1: 0.00%  |  EM: No)
+
+Q126. What percentage of Filipino tertiary education takes place in private schools?
+Predicted answer: 80
+Golder answer: 80
+(F1: 100.00%  |  EM: Yes)
+
+Q127. What is the name of the area that the main campus is centered in Cambridge?
+Predicted answer: Harvard yard
+Golder answer: Harvard Yard
+(F1: 100.00%  |  EM: Yes)
+
+Q128. Who lead the school back to leading research institution in 2oth century?
+Predicted answer: James bryant conant
+Golder answer: James Bryant Conant
+(F1: 100.00%  |  EM: Yes)
+
+Q129. In what year of 20th century, did Harvard release an important document about education in America?
+Predicted answer: 1945
+Golder answer: 1945
+(F1: 100.00%  |  EM: Yes)
+
+Q130. How far from state house in downtown Boston is Harvard Yard?
+Predicted answer: 3 miles 5 km west northwest
+Golder answer: 3 miles
+(F1: 50.00%  |  EM: No)
+
+Q131. What year did consolidation cause Jacksonville to become part of Duval County?
+Predicted answer: 1968
+Golder answer: 1968
+(F1: 100.00%  |  EM: Yes)
+
+Q132. How many naval bases are located in Jacksonville?
+Predicted answer: Two
+Golder answer: two
+(F1: 100.00%  |  EM: Yes)
+
+Q133. Who voted against Jacksonville's annexation?
+Predicted answer: Voters
+Golder answer: Voters outside the city limits
+(F1: 40.00%  |  EM: No)
+
+Q134. What philosophy of thought  addresses wealth inequality?
+Predicted answer: Neoclassical economics
+Golder answer: Neoclassical economics
+(F1: 100.00%  |  EM: Yes)
+
+Q135. What do wages work in the same way as for any other good?
+Predicted answer: Prices
+Golder answer: prices
+(F1: 100.00%  |  EM: Yes)
+
+Q136. What is key to getting the skills needed for high demand jobs?
+Predicted answer: Education
+Golder answer: access to education
+(F1: 50.00%  |  EM: No)
+
+Q137. What type of wages do people unable to afford an education receive?
+Predicted answer: Lower
+Golder answer: lower
+(F1: 100.00%  |  EM: Yes)
+
+Q138. What organization is John Schmitt and Ben Zipperer members of?
+Predicted answer: Cepr
+Golder answer: CEPR
+(F1: 100.00%  |  EM: Yes)
+
+Q139. What has technological innovation and automation replaced low-skilled jobs with?
+Predicted answer: Machine labor
+Golder answer: machine labor
+(F1: 100.00%  |  EM: Yes)
+
+Q140. What does a U.S. census report state that even after other factors there still exists this between earnings of men and women?
+Predicted answer: In us once other factors are accounted for there is still difference
+Golder answer: a difference
+(F1: 15.38%  |  EM: No)
+
+Q141. What are those with lower incomes often unable to manage?
+Predicted answer: Finances
+Golder answer: their finances
+(F1: 66.67%  |  EM: No)
+
+Q142. When does Doctor Who transition to a new body?
+Predicted answer: 2013 christmas special time of doctor
+Golder answer: after sustaining an injury
+(F1: 0.00%  |  EM: No)
+
+Q143. What image has become linked to Doctor Who?
+Predicted answer: Tardis
+Golder answer: the TARDIS
+(F1: 100.00%  |  EM: Yes)
+
+Q144. How many of the episodes produced in the first six seasons are not in BBC's archives?
+Predicted answer: 97
+Golder answer: 97
+(F1: 100.00%  |  EM: Yes)
+
+Q145. When was the debut of the 1983 special called The Five Doctors?
+Predicted answer: 23 november
+Golder answer: 23 November
+(F1: 100.00%  |  EM: Yes)
+
+Q146. What year were the first Doctor Who stories available on CD?
+Predicted answer: 2013
+Golder answer: 1999
+(F1: 0.00%  |  EM: No)
+
+Q147. What weapon does Spike Milligan use against a Dalek?
+Predicted answer: Soap sponge
+Golder answer: a soap sponge
+(F1: 100.00%  |  EM: Yes)
+
+Q148. What kind of university is the University of Chicago?
+Predicted answer: Private research
+Golder answer: a private research university
+(F1: 80.00%  |  EM: No)
+
+Q149. What year was the university's first president given his position? 
+Predicted answer: 1891
+Golder answer: 1891
+(F1: 100.00%  |  EM: Yes)
+
+Q150. What institute did the university announced to everyone in 2008?
+Predicted answer: Milton friedman institute
+Golder answer: Milton Friedman Institute
+(F1: 100.00%  |  EM: Yes)
+
+Q151. Who developed the lithium-ion battery?
+Predicted answer: 
+Golder answer: John B. Goodenough
+(F1: 0.00%  |  EM: No)
+
+Q152. What chess grandmaster is also a university alumni?
+Predicted answer: Samuel reshevsky
+Golder answer: Samuel Reshevsky
+(F1: 100.00%  |  EM: Yes)
+
+Q153. Who calculated the speed of light?
+Predicted answer: Michelson
+Golder answer: A. A. Michelson
+(F1: 100.00%  |  EM: Yes)
+
+Q154. Who was Kublai Khan's grandfather?
+Predicted answer: Genghis khan
+Golder answer: Genghis Khan
+(F1: 100.00%  |  EM: Yes)
+
+Q155. When did Li Tan lead a revolt?
+Predicted answer: 1262
+Golder answer: 1262
+(F1: 100.00%  |  EM: Yes)
+
+Q156. Who was thought to have killed Tugh Temur?
+Predicted answer: El temur
+Golder answer: El Temür
+(F1: 50.00%  |  EM: No)
+
+Q157. What religions did Tugh Temur follow?
+Predicted answer: Buddhism
+Golder answer: supported Zhu Xi's Neo-Confucianism and also devoted himself in Buddhism
+(F1: 15.38%  |  EM: No)
+
+Q158. How many successors of Kublai was Toghun the last of?
+Predicted answer: Nine
+Golder answer: nine
+(F1: 100.00%  |  EM: Yes)
+
+Q159. What did Polo call the Yuan capital?
+Predicted answer: Cambaluc
+Golder answer: Cambaluc
+(F1: 100.00%  |  EM: Yes)
+
+Q160. What philosophies underlay Chinese medicine?
+Predicted answer: Yin yang and wuxing philosophy
+Golder answer: yin-yang and wuxing
+(F1: 88.89%  |  EM: No)
+
+Q161. Who did the Yuan's increase in commerce help?
+Predicted answer: Private southern chinese manufacturers and merchants
+Golder answer: private southern Chinese manufacturers and merchants
+(F1: 100.00%  |  EM: Yes)
+
+Q162. Who was in command of the German military forces?
+Predicted answer: Lt col paul von lettow vorbeck
+Golder answer: Lt Col Paul von Lettow-Vorbeck
+(F1: 100.00%  |  EM: Yes)
+
+Q163. How many barrels of oil is it estimated Kenya has?
+Predicted answer: 10 billion
+Golder answer: around 10 billion barrels.
+(F1: 66.67%  |  EM: No)
+
+Q164. What is the most successful team sport in Kenya?
+Predicted answer: Cricket
+Golder answer: Cricket
+(F1: 100.00%  |  EM: Yes)
+
+Q165. How many people attended the 2003 IPCC meeting?
+Predicted answer: 350 government officials and climate change experts after opening ceremonies closed plenary sessions were held meeting report states there were 322
+Golder answer: 350
+(F1: 9.09%  |  EM: No)
+
+Q166. What is 'grey literature'?
+Predicted answer: Non peer reviewed sources
+Golder answer: non-peer-reviewed sources
+(F1: 100.00%  |  EM: Yes)
+
+Q167. Where was the Feb 2010 call for change published?
+Predicted answer: Journal nature
+Golder answer: the journal Nature
+(F1: 100.00%  |  EM: Yes)
+
+Q168. What kind of chloroplasts do Euglenophytes have?
+Predicted answer: Common flagellated protists
+Golder answer: chloroplasts derived from a green alga
+(F1: 0.00%  |  EM: No)
+
+Q169. How are the pyrenoid and thylakoids arranged?
+Predicted answer: In groups of three
+Golder answer: stacked in groups of three
+(F1: 88.89%  |  EM: No)
+
+Q170. How many membranes does the haptophyte chloroplast have?
+Predicted answer: Four
+Golder answer: four
+(F1: 100.00%  |  EM: Yes)
+
+Q171. Where is the chloroplast polypeptide synthesized?
+Predicted answer: On ribosome in cytosol
+Golder answer: in the cytosol
+(F1: 66.67%  |  EM: No)
+
+Q172. What is the systemic acquired resistance response of a plant immune system?
+Predicted answer: Infected cells release signals warning rest of plant of pathogen s presence
+Golder answer: infected cells release signals warning the rest of the plant of a pathogen's presence
+(F1: 91.67%  |  EM: Yes)
+
+Q173. In what process are electrons recycled?
+Predicted answer: Cyclic photophosphorylation
+Golder answer: cyclic photophosphorylation
+(F1: 100.00%  |  EM: Yes)
+
+Q174. What can rubisco do by mistake?
+Predicted answer: Add o2
+Golder answer: add O2 instead of CO2 to RuBP
+(F1: 44.44%  |  EM: No)
+
+Q175. In what year did Pierre de Fermat declare Fermat's little theorem?
+Predicted answer: 1640
+Golder answer: In 1640
+(F1: 66.67%  |  EM: No)
+
+Q176. What century did the name of the Rhine come from?
+Predicted answer: 1st century bc
+Golder answer: 1st century BC
+(F1: 100.00%  |  EM: Yes)
+
+Q177. What is the natural dam that the Rhine flows through?
+Predicted answer: Sargans
+Golder answer: Sargans
+(F1: 100.00%  |  EM: Yes)
+
+Q178. What gorge is between the Bingen and Bonn?
+Predicted answer: 
+Golder answer: Rhine Gorge
+(F1: 0.00%  |  EM: No)
+
+Q179. Besides viniculture, what's a dominant economic sector of the Middle Rhine?
+Predicted answer: Tourism
+Golder answer: tourism
+(F1: 100.00%  |  EM: Yes)
+
+Q180. What is the Canal in Wesel? 
+Predicted answer: Wesel datteln canal
+Golder answer: Wesel-Datteln Canal
+(F1: 100.00%  |  EM: Yes)
+
+Q181. Where does the Delta in the Netherlands begin?
+Predicted answer: Near millingen aan de rijn
+Golder answer: Millingen aan de Rijn,
+(F1: 88.89%  |  EM: No)
+
+Q182. Which sea was oil discovered in?
+Predicted answer: North sea
+Golder answer: North
+(F1: 66.67%  |  EM: No)
+
+Q183. How many seats are in the debating chamber?
+Predicted answer: 131
+Golder answer: 131
+(F1: 100.00%  |  EM: Yes)
+
+Q184. Up until 1990, Saudi Arabia played an important role in restraining what groups?
+Predicted answer: Islamist
+Golder answer: Islamist
+(F1: 100.00%  |  EM: Yes)
+
+Q185. What did the Taliban want to subject the entire country to?
+Predicted answer: Sharia
+Golder answer: Sharia
+(F1: 100.00%  |  EM: Yes)
+
+Q186. What type of jihad does HT avoid engaging in?
+Predicted answer: Armed
+Golder answer: armed
+(F1: 100.00%  |  EM: Yes)
+
+Q187. What does colonialism lack that imperialism has?
+Predicted answer: Political focus
+Golder answer: political focus
+(F1: 100.00%  |  EM: Yes)
+
+Q188. Friedrich Ratzel thought what was needed for a state to survive?
+Predicted answer: Imperialism
+Golder answer: imperialism
+(F1: 100.00%  |  EM: Yes)
+
+Q189. Where was Friedrich Ratzel born?
+Predicted answer: Germany
+Golder answer: Germany
+(F1: 100.00%  |  EM: Yes)
+
+Q190. How would the geographical societies in Europe support certain travelers?
+Predicted answer: 
+Golder answer: fund
+(F1: 0.00%  |  EM: No)
+
+Q191. When imperialism impacts social norms of a state, what is it called?
+Predicted answer: Soft power
+Golder answer: Cultural imperialism
+(F1: 0.00%  |  EM: No)
+
+Q192. Who asserted Russia's right to "self-determination?"
+Predicted answer: Lenin
+Golder answer: Lenin
+(F1: 100.00%  |  EM: Yes)
+
+Q193. In 1735, where did John and Charles Wesley teach the gospel in America?
+Predicted answer: Georgia
+Golder answer: colony of Georgia
+(F1: 50.00%  |  EM: No)
+
+Q194. The UMC understands itself to be part of what church?
+Predicted answer: Holy catholic
+Golder answer: holy catholic (or universal) church
+(F1: 57.14%  |  EM: No)
+
+Q195. Where did Iroquois Confederation control?
+Predicted answer: Present day upstate new york and ohio country
+Golder answer: present-day Upstate New York and the Ohio Country
+(F1: 100.00%  |  EM: Yes)
+
+Q196. How did Celeron feel about Native relations?
+Predicted answer: Badly disposed towards french and are entirely devoted to english
+Golder answer: very badly disposed towards the French, and are entirely devoted to the English
+(F1: 95.24%  |  EM: No)
+
+Q197. When a commission reached no decision, what happened?
+Predicted answer: Issues of conflicting territorial claims between british and french colonies in north america were turned over to commission to resolve
+Golder answer: Frontiers from between Nova Scotia and Acadia in the north, to the Ohio Country in the south, were claimed by both sides
+(F1: 30.77%  |  EM: No)
+
+Q198. How many troops were defeated for British in BAttle of Carillon?
+Predicted answer: 3 600
+Golder answer: 18,000 regulars, militia and Native American allies
+(F1: 0.00%  |  EM: No)
+
+Q199. What law connects relative velocities with inertia?
+Predicted answer: Newton s first law
+Golder answer: Newton's First
+(F1: 85.71%  |  EM: No)
+
+Q200. What directly opposes the force applied to move an object across a surface?
+Predicted answer: Kinetic friction force
+Golder answer: kinetic friction force
+(F1: 100.00%  |  EM: Yes)

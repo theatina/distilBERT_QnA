@@ -1,0 +1,1003 @@
+
+Mean F1: 81.40%  |  Mean EM: 68.00%
+
+
+Q1. Who else appeared with Beyonce in Telephone?
+Predicted answer: Lady gaga
+Golder answer: Lady Gaga
+(F1: 100.00%  |  EM: Yes)
+
+Q2. What campaign did she contribute to?
+Predicted answer: Ban bossy
+Golder answer: Ban Bossy
+(F1: 100.00%  |  EM: Yes)
+
+Q3. What influenced Nicki Minaj to join the Pepsi global campaign?
+Predicted answer: Beyonce s pepsi commercial
+Golder answer: Beyoncé's Pepsi commercial
+(F1: 75.00%  |  EM: No)
+
+Q4. What was the name of the video game that was cancelled for Beyonce?
+Predicted answer: Starpower beyonce
+Golder answer: Starpower: Beyoncé
+(F1: 50.00%  |  EM: No)
+
+Q5. Whose piano method did Chopin teach his students?
+Predicted answer: 
+Golder answer: Clementi
+(F1: 0.00%  |  EM: No)
+
+Q6. Link's wolf form is faster than what other form?
+Predicted answer: Human
+Golder answer: human
+(F1: 100.00%  |  EM: Yes)
+
+Q7. How did a receptionist describe the atmosphere after the evacuation?
+Predicted answer: Calm
+Golder answer: calm
+(F1: 100.00%  |  EM: Yes)
+
+Q8. Who was the only non-abusive father mentioned?
+Predicted answer: Atticus
+Golder answer: Atticus
+(F1: 100.00%  |  EM: Yes)
+
+Q9. What has happened to photovoltaic in the past 20 years?
+Predicted answer: Evolved from pure niche market of small scale applications towards becoming mainstream electricity source
+Golder answer: evolved from a pure niche market of small scale applications towards becoming a mainstream electricity source
+(F1: 100.00%  |  EM: Yes)
+
+Q10. In which year was the first motorway opened in Portugal?
+Predicted answer: 1944
+Golder answer: 1944
+(F1: 100.00%  |  EM: Yes)
+
+Q11. For how long has the Libon tram service existed?
+Predicted answer: Over century
+Golder answer: over a century
+(F1: 100.00%  |  EM: Yes)
+
+Q12. What are the three largest sports clubs by popularity in Portugal?
+Predicted answer: Sl benfica fc porto and sporting cp
+Golder answer: SL Benfica, FC Porto, and Sporting CP
+(F1: 100.00%  |  EM: Yes)
+
+Q13. What doctor did Donda West ignore the recommendation of to invest her heart condition?
+Predicted answer: Andre aboolian
+Golder answer: Andre Aboolian
+(F1: 100.00%  |  EM: Yes)
+
+Q14. Dukkha can be translated as what word in regards to unhappiness?
+Predicted answer: Suffering
+Golder answer: unsatisfactoriness
+(F1: 0.00%  |  EM: No)
+
+Q15. Who was brought in as a new judge during American Idols eighth season?
+Predicted answer: Kara dioguardi
+Golder answer: Kara DioGuardi
+(F1: 100.00%  |  EM: Yes)
+
+Q16. Where is the location of the original Olympic events?
+Predicted answer: Olympia greece
+Golder answer: Olympia, Greece.
+(F1: 100.00%  |  EM: Yes)
+
+Q17. Who attended the celebrations?
+Predicted answer: International olympic committee ioc
+Golder answer: IOC
+(F1: 40.00%  |  EM: No)
+
+Q18. The financial crisis of 2007 was the worst economic crisis since which crisis that occurred in the 1930s?
+Predicted answer: Great depression
+Golder answer: Great Depression
+(F1: 100.00%  |  EM: Yes)
+
+Q19. Peter J. Wallison believes that the one of the roots of the financial crisis can be traced to affordable housing policies by which agency in the 1990s?
+Predicted answer: Hud
+Golder answer: HUD
+(F1: 100.00%  |  EM: Yes)
+
+Q20. At which school do students achieve the least success?
+Predicted answer: Students attending hauptschule
+Golder answer: Hauptschule
+(F1: 50.00%  |  EM: No)
+
+Q21. What school oversees the Quito Astronomical Observatory?
+Predicted answer: National polytechnic school
+Golder answer: National Polytechnic School
+(F1: 100.00%  |  EM: Yes)
+
+Q22. Between which two nations was the Treaty of the Pyrenees signed?
+Predicted answer: Spain and france
+Golder answer: Spain and France
+(F1: 100.00%  |  EM: Yes)
+
+Q23. In what year was Plymouth recognized as a town?
+Predicted answer: 1254
+Golder answer: 1254
+(F1: 100.00%  |  EM: Yes)
+
+Q24. The National Aeronautics and Space Act was established in what year?
+Predicted answer: 1958
+Golder answer: 1958
+(F1: 100.00%  |  EM: Yes)
+
+Q25. When did US President John F. Kennedy, in a speech, propose to join forces to reach the moon with the USSR?
+Predicted answer: September 20 1963
+Golder answer: September 20, 1963
+(F1: 100.00%  |  EM: Yes)
+
+Q26. How many years ago did hunting-gatherers start specializing in their collection practices?
+Predicted answer: 80 000 to 70 000 years
+Golder answer: 80,000 to 70,000 years ago
+(F1: 76.92%  |  EM: No)
+
+Q27. What theory is the hydrogen atom a big part of?
+Predicted answer: Atomic structure
+Golder answer: atomic structure
+(F1: 100.00%  |  EM: Yes)
+
+Q28. Which browser is the newest to enter the field?
+Predicted answer: Chrome
+Golder answer: Chrome
+(F1: 100.00%  |  EM: Yes)
+
+Q29. What do you not need to use in Catalan?
+Predicted answer: Passive voice
+Golder answer: passive voice
+(F1: 100.00%  |  EM: Yes)
+
+Q30. What country is leading in production of paper?
+Predicted answer: United states
+Golder answer: China
+(F1: 0.00%  |  EM: No)
+
+Q31. During what decade did rock and roll music first rise to popularity?
+Predicted answer: 1950s
+Golder answer: 1950s
+(F1: 100.00%  |  EM: Yes)
+
+Q32. What radio station format have many of the former soft AC artists moved to?
+Predicted answer: Adult standards
+Golder answer: adult standards
+(F1: 100.00%  |  EM: Yes)
+
+Q33. Was the GDP in 2013 an increase or decrease over 2012's levels?
+Predicted answer: 11 percent increase
+Golder answer: increase
+(F1: 50.00%  |  EM: No)
+
+Q34. What is one room in RIBA's headquarters that can be visited by the public?
+Predicted answer: Library
+Golder answer: the Library
+(F1: 100.00%  |  EM: Yes)
+
+Q35. Some Slavs migrated with the movement of the Vandals to where?
+Predicted answer: Iberia and north africa
+Golder answer: Iberia and north Africa
+(F1: 100.00%  |  EM: Yes)
+
+Q36. How many cities or towns are there in all of England and Wales with a ceremonial sheriff acting as the Mayor's deputy?
+Predicted answer: 16
+Golder answer: 16
+(F1: 100.00%  |  EM: Yes)
+
+Q37. In what year waas Vladan Dinic born?
+Predicted answer: 1949
+Golder answer: 1949
+(F1: 100.00%  |  EM: Yes)
+
+Q38. Who said that the Marshalls are the most endangered nation in the world?
+Predicted answer: President of nauru
+Golder answer: the president of Nauru
+(F1: 100.00%  |  EM: Yes)
+
+Q39. What does the cracking of the ice create?
+Predicted answer: Unpredictable and dangerous crevasses
+Golder answer: unpredictable and dangerous crevasses
+(F1: 100.00%  |  EM: Yes)
+
+Q40. What was the name of the Portuguese explorer?
+Predicted answer: Diogo cao
+Golder answer: Diogo Cão
+(F1: 50.00%  |  EM: No)
+
+Q41. China, Korea, southeast Asia and the islands of the Pacific were included in what? 
+Predicted answer: East indies
+Golder answer: "the East Indies"
+(F1: 100.00%  |  EM: Yes)
+
+Q42. Efforts were made to reduce analog HDTV to how much of the bandwith of SDTV?
+Predicted answer: About twice bandwidth
+Golder answer: about twice
+(F1: 80.00%  |  EM: No)
+
+Q43. What event led to larger crop yields in the High Middle Ages?
+Predicted answer: 
+Golder answer: the Medieval Warm Period
+(F1: 0.00%  |  EM: No)
+
+Q44. Who led the Civil Rights movement?
+Predicted answer: Reverend martin luther king jr
+Golder answer: Reverend Martin Luther King
+(F1: 88.89%  |  EM: No)
+
+Q45. What major event did The Times reluctantly support in the nineteenth century despite being initially opposed?
+Predicted answer: Repeal of corn laws
+Golder answer: Irish Potato Famine
+(F1: 0.00%  |  EM: No)
+
+Q46. What is the highest ever recorded temperature in New Delhi?
+Predicted answer: 49 1 °c 120 4 °f
+Golder answer: 49.1 °C (120.4 °F)
+(F1: 100.00%  |  EM: Yes)
+
+Q47. What did the deputies collect in the Imam's behalf?
+Predicted answer: Zakat and khums
+Golder answer: zakat and khums
+(F1: 100.00%  |  EM: Yes)
+
+Q48. What was the median age of Atlantic City?
+Predicted answer: 35
+Golder answer: 35 years
+(F1: 66.67%  |  EM: No)
+
+Q49. What percentage of the population in the city were living below the poverty line?
+Predicted answer: 23 6
+Golder answer: 23.6%
+(F1: 100.00%  |  EM: Yes)
+
+Q50. Which precious metal did Biezma discover?
+Predicted answer: Silver
+Golder answer: silver
+(F1: 100.00%  |  EM: Yes)
+
+Q51. Two-fifths of the state's territory was divided between how many families?
+Predicted answer: 17
+Golder answer: 17
+(F1: 100.00%  |  EM: Yes)
+
+Q52. The last census in Mexico that asked for race was carried out in which year?
+Predicted answer: 1921
+Golder answer: 1921
+(F1: 100.00%  |  EM: Yes)
+
+Q53. What is one property of copper that makes it so useful in electrical wiring?
+Predicted answer: High electrical conductivity
+Golder answer: high electrical conductivity
+(F1: 100.00%  |  EM: Yes)
+
+Q54. What technology support the drinking of chilled beer?
+Predicted answer: Artificial refrigeration
+Golder answer: artificial refrigeration
+(F1: 100.00%  |  EM: Yes)
+
+Q55. What famous theatre is located in Georgs Palace?
+Predicted answer: Gop variety theatre
+Golder answer: GOP Variety theatre
+(F1: 100.00%  |  EM: Yes)
+
+Q56. What destroyed the palace?
+Predicted answer: Allied bombing
+Golder answer: Allied bombing
+(F1: 100.00%  |  EM: Yes)
+
+Q57. How many competition wins did Barcelona have in 2011?
+Predicted answer: Five
+Golder answer: five
+(F1: 100.00%  |  EM: Yes)
+
+Q58. In what year did Everton take 7,000 travelling fans with them to an away game?
+Predicted answer: 2009
+Golder answer: 2009
+(F1: 100.00%  |  EM: Yes)
+
+Q59. What company introduced the first device to help deaf people communicate through telecommunications?
+Predicted answer: At t
+Golder answer: AT&T
+(F1: 100.00%  |  EM: Yes)
+
+Q60. What equipment did the Iraqi army possess?
+Predicted answer: Late model soviet tanks and jet fighters
+Golder answer: late model Soviet tanks and jet fighters
+(F1: 100.00%  |  EM: Yes)
+
+Q61. What precision did the FBI believe they could reach with chemical signatures?
+Predicted answer: Unique
+Golder answer: single box of bullets
+(F1: 0.00%  |  EM: No)
+
+Q62. What is the main mineral found on Antarctica?
+Predicted answer: Coal
+Golder answer: coal
+(F1: 100.00%  |  EM: Yes)
+
+Q63. What is another name for the Assumption of Mary?
+Predicted answer: Dormition
+Golder answer: Dormition
+(F1: 100.00%  |  EM: Yes)
+
+Q64. What is Melbourne's Koppen climate classification?
+Predicted answer: Cfb
+Golder answer: Cfb
+(F1: 100.00%  |  EM: Yes)
+
+Q65. What are the dimensions of the Hoddle Grid?
+Predicted answer: 1 by 1⁄2 mile
+Golder answer: 1 by 1⁄2 mile (1.61 by 0.80 km)
+(F1: 57.14%  |  EM: No)
+
+Q66. How many marks did John surrender?
+Predicted answer: 1 000
+Golder answer: 1,000
+(F1: 100.00%  |  EM: Yes)
+
+Q67. What computers is Maverick compatible with?
+Predicted answer: Most macs
+Golder answer: most Macs from 2007 and later
+(F1: 50.00%  |  EM: No)
+
+Q68. Which country had the most severe case?
+Predicted answer: Soviet union
+Golder answer: Soviet Union
+(F1: 100.00%  |  EM: Yes)
+
+Q69. What kind of guns started attracting attention?
+Predicted answer: Balloon
+Golder answer: balloon, or airship, guns
+(F1: 40.00%  |  EM: No)
+
+Q70. Who did the U.S. defeat to collapse the Indian Confederacy?
+Predicted answer: Tecumseh
+Golder answer: Tecumseh
+(F1: 100.00%  |  EM: Yes)
+
+Q71. Where does uranium accumulate in the body?
+Predicted answer: Bone tissue
+Golder answer: bone tissue
+(F1: 100.00%  |  EM: Yes)
+
+Q72. The basis of classical liberalism comes from whose philosophical concepts?
+Predicted answer: Hume s philosophical concepts that directly influenced james madison and thus u s constitution and as popularised by dugald stewart
+Golder answer: Hume
+(F1: 9.52%  |  EM: No)
+
+Q73. Which king of Prussia saw himself as the leader of the Enlightenment?
+Predicted answer: Frederick great
+Golder answer: Frederick the Great
+(F1: 100.00%  |  EM: Yes)
+
+Q74. What did the Sunday Times estimate Elizabeth's fortune to be in 2015?
+Predicted answer: £340 million
+Golder answer: £340 million
+(F1: 100.00%  |  EM: Yes)
+
+Q75. How old was Elizabeth's father at the time of his death?
+Predicted answer: 56
+Golder answer: 56
+(F1: 100.00%  |  EM: Yes)
+
+Q76. What is an example of an issue that is raised in collateral review?
+Predicted answer: Ineffective assistance of counsel
+Golder answer: ineffective assistance of counsel
+(F1: 100.00%  |  EM: Yes)
+
+Q77. What was the new design shape of the controller?
+Predicted answer: Dog bone
+Golder answer: dog bone
+(F1: 100.00%  |  EM: Yes)
+
+Q78. What organization runs the largest line of ferries in the US?
+Predicted answer: Washington state ferries
+Golder answer: Washington State Ferries
+(F1: 100.00%  |  EM: Yes)
+
+Q79. Who developed Amphetamine?
+Predicted answer: Smith kline and french
+Golder answer: Smith, Kline and French
+(F1: 100.00%  |  EM: Yes)
+
+Q80. What does mixing bitumen with water create?
+Predicted answer: Emulsion
+Golder answer: emulsion
+(F1: 100.00%  |  EM: Yes)
+
+Q81. Which of Queen Victoria's children died in July of that year? 
+Predicted answer: Alfred
+Golder answer: her second son Alfred
+(F1: 40.00%  |  EM: No)
+
+Q82. When was the first Papal prounouncement against Freemasonry made?
+Predicted answer: 28 april 1738
+Golder answer: 28 April 1738
+(F1: 100.00%  |  EM: Yes)
+
+Q83. Where does the Jordan Rift Valley lie?
+Predicted answer: East of central highlands
+Golder answer: East of the central highlands
+(F1: 100.00%  |  EM: Yes)
+
+Q84. What the nation's canonical folk songs known as?
+Predicted answer: Songs of land of israel
+Golder answer: Songs of the Land of Israel
+(F1: 80.00%  |  EM: Yes)
+
+Q85. Armenia became a vassal state of what Empire?
+Predicted answer: Seleucid empire
+Golder answer: Seleucid
+(F1: 66.67%  |  EM: No)
+
+Q86. How long is the NU-Q branch of Northwestern scheduled to operate through an agreement in 2016?
+Predicted answer: Additional decade
+Golder answer: through the 2027-2028 academic year
+(F1: 0.00%  |  EM: No)
+
+Q87. What percentage of adults in the Netherlands spoke a dialect or regional language in 1995?
+Predicted answer: 27
+Golder answer: 27
+(F1: 100.00%  |  EM: Yes)
+
+Q88. The Belgian Suite is located at the bottom of which staircase?
+Predicted answer: Minister s staircase
+Golder answer: Minister's Staircase
+(F1: 100.00%  |  EM: Yes)
+
+Q89. What properties of graphite improved the filament?
+Predicted answer: Uniformity and strength of filaments as well as their efficiency
+Golder answer: further strengthened and smoothed the filament
+(F1: 13.33%  |  EM: No)
+
+Q90. What is the typical diameter of the filament on a 60-watt bulb?
+Predicted answer: 0 0018 inches
+Golder answer: 0.0018 inches
+(F1: 100.00%  |  EM: Yes)
+
+Q91. What gender's clothing is often more practical?
+Predicted answer: Male
+Golder answer: Male
+(F1: 100.00%  |  EM: Yes)
+
+Q92. Who had a majority interest in Cataline island  in 1919?
+Predicted answer: William wrigley jr
+Golder answer: William Wrigley Jr
+(F1: 100.00%  |  EM: Yes)
+
+Q93. Who had the fewest number of troops in Korea?
+Predicted answer: U s garrisons in japan continually dispatched soldiers and materiel to reinforce defenders in pusan perimeter tank battalions deployed to korea directly from u s mainland from port of san francisco to port of pusan largest korean port by late august pusan perimeter had some 500 medium tanks battle ready in early september 1950 rok army and un command forces outnumbered kpa 180 000 to 100 000 soldiers un forces
+Golder answer: KPA
+(F1: 2.82%  |  EM: No)
+
+Q94. In the E.U., what are the governing principles for ISP's?
+Predicted answer: Mere conduit
+Golder answer: mere conduit
+(F1: 100.00%  |  EM: Yes)
+
+Q95. Garuda is the national symbol of which 2 countries?
+Predicted answer: Thailand and indonesia
+Golder answer: Thailand and Indonesia
+(F1: 100.00%  |  EM: Yes)
+
+Q96. What episode of South Park dealt with wrestling?
+Predicted answer: W t f
+Golder answer: "W.T.F."
+(F1: 100.00%  |  EM: Yes)
+
+Q97. What war did America and Mexico fight in?
+Predicted answer: Mexican – american war
+Golder answer: Mexican–American War
+(F1: 33.33%  |  EM: No)
+
+Q98. Why did the one-party government struggle after the major earthquake in 1985?
+Predicted answer: It proved to be disaster politically
+Golder answer: paralyzed by its own bureaucracy and corruption
+(F1: 0.00%  |  EM: No)
+
+Q99. What is the nickname of the city that the government is trying to push now?
+Predicted answer: Capital en movimiento
+Golder answer: Capital en Movimiento
+(F1: 100.00%  |  EM: Yes)
+
+Q100. What 6th tribe is sometimes included with the original 5 German tribes?
+Predicted answer: Frisians
+Golder answer: Frisians
+(F1: 100.00%  |  EM: Yes)
+
+Q101. At what terminal in New Haven was the Hartford Line slated to originate?
+Predicted answer: Union station
+Golder answer: Union Station
+(F1: 100.00%  |  EM: Yes)
+
+Q102. The recent Indiana Jones movie feature how many of the local citizen in film?
+Predicted answer: 500
+Golder answer: 500
+(F1: 100.00%  |  EM: Yes)
+
+Q103. What does diaphoresis refer to?
+Predicted answer: Excessive form of sweating
+Golder answer: excessive form of sweating
+(F1: 100.00%  |  EM: Yes)
+
+Q104. When did the idea of a "consumer society" begin? 
+Predicted answer: Turn of 19th century
+Golder answer: at the turn of the 19th century.
+(F1: 88.89%  |  EM: No)
+
+Q105. When was the Slave Trade Act enacted?
+Predicted answer: 1807
+Golder answer: 1807
+(F1: 100.00%  |  EM: Yes)
+
+Q106. What kind of plants did monasteries cultivate?
+Predicted answer: Edible medicinal and poisonous plants
+Golder answer: plants of medical importance
+(F1: 22.22%  |  EM: No)
+
+Q107. How much was Madonna's nude photos were finally sold for?
+Predicted answer: Up to 100 000
+Golder answer: up to $100,000
+(F1: 100.00%  |  EM: Yes)
+
+Q108. Who is Madonna's second husband?
+Predicted answer: Guy ritchie
+Golder answer: Guy Ritchie
+(F1: 100.00%  |  EM: Yes)
+
+Q109. What is the approximate area of the core of the City of London?
+Predicted answer: 1 12 square mile
+Golder answer: 1.12-square-mile (2.9 km2)
+(F1: 72.73%  |  EM: No)
+
+Q110. Did other countries actively participate in business that first rang a bell to begin in the winter of 2014 in Myanmar ?
+Predicted answer: Myanmar signed agreement to set up its first stock exchange
+Golder answer: Japan's Daiwa Institute of Research Ltd 30.25 percent and Japan Exchange Group 18.75 percent.
+(F1: 7.41%  |  EM: No)
+
+Q111. In what year was The Sun's look changed?
+Predicted answer: 2013
+Golder answer: 2013
+(F1: 100.00%  |  EM: Yes)
+
+Q112. Which BBC show's homosexual kiss did The Sun report on?
+Predicted answer: Eastenders eastbenders
+Golder answer: EastEnders
+(F1: 66.67%  |  EM: No)
+
+Q113. What was achieved though the use of the scientific study of anatomy in the field of art?
+Predicted answer: Greater realism
+Golder answer: Greater realism
+(F1: 100.00%  |  EM: Yes)
+
+Q114. What is one cathedral in which the mixing of Romanesque, Gothic and Islamic styles can be seen?
+Predicted answer: Teruel
+Golder answer: Cefalù Cathedrals
+(F1: 0.00%  |  EM: No)
+
+Q115. Who was the 4th Century BC Indian political philosopher?
+Predicted answer: Chanakya
+Golder answer: Chanakya
+(F1: 100.00%  |  EM: Yes)
+
+Q116. Who did Sprague work for early in his career?
+Predicted answer: Thomas edison
+Golder answer: Thomas Edison
+(F1: 100.00%  |  EM: Yes)
+
+Q117. In what year did the Hungarian revolution take place?
+Predicted answer: 1848
+Golder answer: 1848
+(F1: 100.00%  |  EM: Yes)
+
+Q118. What are drawn from conventional abbreviated forms?
+Predicted answer: Majority of simplified characters
+Golder answer: majority of simplified characters
+(F1: 100.00%  |  EM: Yes)
+
+Q119. The agreement between the Nazis and the Soviets split what countries up?
+Predicted answer: Romania poland lithuania latvia estonia and finland
+Golder answer: Romania, Poland, Lithuania, Latvia, Estonia, and Finland
+(F1: 100.00%  |  EM: Yes)
+
+Q120. The atomic bomb was a part of which movement?
+Predicted answer: World war ii
+Golder answer: Big Science
+(F1: 0.00%  |  EM: No)
+
+Q121. What was Ivan Pavlov known for?
+Predicted answer: Discovered classical conditioning
+Golder answer: classical conditioning
+(F1: 80.00%  |  EM: No)
+
+Q122. How are icebergs formed?
+Predicted answer: Pieces break off or calve
+Golder answer: As the ice reaches the sea, pieces break off, or calve
+(F1: 71.43%  |  EM: No)
+
+Q123. Smartzone used what company's antivirus protection?
+Predicted answer: Trend micro
+Golder answer: Trend Micro
+(F1: 100.00%  |  EM: Yes)
+
+Q124. Who concluded that the University maintained a "holistic" approach to affirmative action?
+Predicted answer: Us court of appeals for fifth circuit
+Golder answer: US Court of Appeals for the Fifth Circuit
+(F1: 100.00%  |  EM: Yes)
+
+Q125. Who was thought to be influenced by continental Anabaptists?
+Predicted answer: Early seventeenth century baptists
+Golder answer: early seventeenth-century Baptists
+(F1: 100.00%  |  EM: Yes)
+
+Q126. What culture in the US benefits from this Act?
+Predicted answer: Amish
+Golder answer: Amish
+(F1: 100.00%  |  EM: Yes)
+
+Q127. Where was the first stop of the Beagle Expedition?
+Predicted answer: St jago
+Golder answer: St. Jago
+(F1: 100.00%  |  EM: Yes)
+
+Q128. What is the busiest cruise port in the world?
+Predicted answer: Port of miami
+Golder answer: Port of Miami
+(F1: 100.00%  |  EM: Yes)
+
+Q129. What is the grand prize in the Young Composers Film Competition?
+Predicted answer: Restored feature length silent film
+Golder answer: score a restored, feature-length silent film
+(F1: 90.91%  |  EM: No)
+
+Q130. What is the interpretation of classical  of Samkhya?
+Predicted answer: Atheist non theistic hindu philosophy
+Golder answer: atheist / non-theistic
+(F1: 75.00%  |  EM: No)
+
+Q131. Where did Sir Francis Drake attack in 1585 and again in 1589?
+Predicted answer: Vigo
+Golder answer: Vigo
+(F1: 100.00%  |  EM: Yes)
+
+Q132. How much of China's wine did Sichuan produce in 2000?
+Predicted answer: 21 9
+Golder answer: 21.9%
+(F1: 100.00%  |  EM: Yes)
+
+Q133. What type of society was seen that came from Raimon's 29 ways?
+Predicted answer: Secular
+Golder answer: secular society
+(F1: 66.67%  |  EM: No)
+
+Q134. How many many cheetah's are left in the wild?
+Predicted answer: 2 000
+Golder answer: 2,000
+(F1: 100.00%  |  EM: Yes)
+
+Q135. When the Kuru kingdom declined, to what kingdom did Vedic culture go?
+Predicted answer: Panchala kingdom
+Golder answer: Panchala
+(F1: 66.67%  |  EM: No)
+
+Q136. What kind of temples were built for Hindu Gods?
+Predicted answer: Monumental
+Golder answer: monumental
+(F1: 100.00%  |  EM: Yes)
+
+Q137. Who defeated Babur's son in 1540?
+Predicted answer: Sher shah suri
+Golder answer: Sher Shah Suri
+(F1: 100.00%  |  EM: Yes)
+
+Q138. Who has pressured the government to cancel the reception?
+Predicted answer: British
+Golder answer: British
+(F1: 100.00%  |  EM: Yes)
+
+Q139. Under which Scotland Act sections is the royal assent governed?
+Predicted answer: 28 32 and 33
+Golder answer: 28, 32, and 33
+(F1: 100.00%  |  EM: Yes)
+
+Q140. What was the first consumer VLP player?
+Predicted answer: Magnavox vh 8000
+Golder answer: Magnavox VH-8000
+(F1: 100.00%  |  EM: Yes)
+
+Q141. What did Émile Durkheim suggest about the existence of God?
+Predicted answer: Extension of human social life to include supernatural beings
+Golder answer: gods represent an extension of human social life to include supernatural beings
+(F1: 90.00%  |  EM: No)
+
+Q142. What was the name of the US's Afghanistan operation?
+Predicted answer: Operation enduring freedom
+Golder answer: Operation Enduring Freedom
+(F1: 100.00%  |  EM: Yes)
+
+Q143. How many instances has Estonia appeared in the EuroBasket tournament?
+Predicted answer: Four times
+Golder answer: four
+(F1: 66.67%  |  EM: No)
+
+Q144. What insect feeds on aphids?
+Predicted answer: Ladybugs
+Golder answer: ladybugs
+(F1: 100.00%  |  EM: Yes)
+
+Q145. What is roughly the amount of African slaves imported to Brazil?
+Predicted answer: 3 5 million people
+Golder answer: 3.5 million
+(F1: 85.71%  |  EM: No)
+
+Q146. IBM has how many members on its Board of Directors?
+Predicted answer: 14
+Golder answer: 14
+(F1: 100.00%  |  EM: Yes)
+
+Q147. Who did Kammu fail to conquer?
+Predicted answer: Emishi people lacked motivation and discipline and failed in their task citation needed emperor kammu introduced title of sei i taishogun unk unk 大 unk 軍 or shogun and began to rely on powerful regional clans to conquer emishi
+Golder answer: Emishi
+(F1: 5.00%  |  EM: No)
+
+Q148. What did Kazusanosuke mean?
+Predicted answer: Title of vice governor of kazusa province
+Golder answer: a title of vice-governor of Kazusa province
+(F1: 85.71%  |  EM: Yes)
+
+Q149. Which of CBC's channels were required to be relocated or reduced in power?
+Predicted answer: 52 to 69
+Golder answer: 52 to 69
+(F1: 100.00%  |  EM: Yes)
+
+Q150. What year did the Nazi's fall in World War II?
+Predicted answer: 1945
+Golder answer: 1945
+(F1: 100.00%  |  EM: Yes)
+
+Q151. How much does the city spend per year per child?
+Predicted answer: 12 570
+Golder answer: $12,570
+(F1: 100.00%  |  EM: Yes)
+
+Q152. What religion was the general population converted to?
+Predicted answer: 
+Golder answer: Roman Catholicism
+(F1: 0.00%  |  EM: No)
+
+Q153. What band played music similar to that of the early British post-punk bands of the late '70s as recently as 2010?
+Predicted answer: Savages
+Golder answer: Savages
+(F1: 100.00%  |  EM: Yes)
+
+Q154. What is the precedent for the "Second Hundred Year's War?
+Predicted answer: More famous and compact struggle of 14th century
+Golder answer: reminiscent of the more famous and compact struggle of the 14th century
+(F1: 88.89%  |  EM: No)
+
+Q155. Who were the parties in the Treaty of Hubertusburg?
+Predicted answer: Austria prussia and saxony
+Golder answer: Austria, Prussia, and Saxony
+(F1: 100.00%  |  EM: Yes)
+
+Q156. What career did Joan hold?
+Predicted answer: Astrophysicist
+Golder answer: astrophysicist
+(F1: 100.00%  |  EM: Yes)
+
+Q157. Before the code change was enacted what was the only permitted hydraulic cylinder type?
+Predicted answer: Single bottom
+Golder answer: single-bottom
+(F1: 100.00%  |  EM: Yes)
+
+Q158. How many elevators are in Brazil?
+Predicted answer: 300 000
+Golder answer: 300,000
+(F1: 100.00%  |  EM: Yes)
+
+Q159. When did Texas become a state?
+Predicted answer: 1846
+Golder answer: In 1846, the Republic dissolved when Texas entered the United States of America as a state.
+(F1: 14.29%  |  EM: No)
+
+Q160. African slaves had great knowledge of the cultivation of what product?
+Predicted answer: Rice cultivation
+Golder answer: rice
+(F1: 66.67%  |  EM: No)
+
+Q161. What year was the Grace Memorial Bridge built?
+Predicted answer: 1929
+Golder answer: 1929
+(F1: 100.00%  |  EM: Yes)
+
+Q162. Red was chosen as part of the Nazi flag to do what?
+Predicted answer: Attract attention
+Golder answer: attract attention
+(F1: 100.00%  |  EM: Yes)
+
+Q163. What type of animal was being protected in the area that received the first HCP?
+Predicted answer: Butterflies
+Golder answer: butterflies
+(F1: 100.00%  |  EM: Yes)
+
+Q164. Ibn al-Haytham used geometry to demonstrate  what?
+Predicted answer: Place al makan is imagined three dimensional void between inner surfaces of containing body
+Golder answer: place (al-makan) is the imagined three-dimensional void between the inner surfaces of a containing body
+(F1: 100.00%  |  EM: Yes)
+
+Q165. The term "great power" was first used on which continent?
+Predicted answer: Europe
+Golder answer: Europe
+(F1: 100.00%  |  EM: Yes)
+
+Q166. What countries found their economic growth in early 20th century?
+Predicted answer: 
+Golder answer: United Kingdom and Prussia
+(F1: 0.00%  |  EM: No)
+
+Q167. What were the Manchus originally named?
+Predicted answer: Jurchens
+Golder answer: Jurchens
+(F1: 100.00%  |  EM: Yes)
+
+Q168. What is called when the direction of the elctrical current does not make a difference to the current?
+Predicted answer: Reciprocal
+Golder answer: Reciprocal
+(F1: 100.00%  |  EM: Yes)
+
+Q169. When did Washington University begin construction of a complex of residential halls?
+Predicted answer: 1957
+Golder answer: 1957
+(F1: 100.00%  |  EM: Yes)
+
+Q170. Who designed the Broadway Village shopping center?
+Predicted answer: Josias joesler
+Golder answer: Josias Joesler
+(F1: 100.00%  |  EM: Yes)
+
+Q171. What type of social system was in place under the Ottoman Empire?
+Predicted answer: Strict muslim
+Golder answer: Muslim
+(F1: 66.67%  |  EM: No)
+
+Q172. Do bacteria have membrabe-bound organelles in their cytoplasm?
+Predicted answer: 
+Golder answer: do not
+(F1: 0.00%  |  EM: No)
+
+Q173. Who was believed to have had a secret allegiance with enemies of Julius Caesar?
+Predicted answer: Marcus licinius crassus and gnaeus pompeius magnus
+Golder answer: Pompey
+(F1: 0.00%  |  EM: No)
+
+Q174. What is the architectural style of the 1845 Egyptian Building?
+Predicted answer: One of few egyptian revival buildings in united states
+Golder answer: Egyptian Revival
+(F1: 36.36%  |  EM: No)
+
+Q175. In what direction does one travel from Richmond to reach Southside Speedway?
+Predicted answer: Southwest
+Golder answer: southwest
+(F1: 100.00%  |  EM: Yes)
+
+Q176. What is the average annual precipitation along San Diego's coast?
+Predicted answer: 10 inches
+Golder answer: 10.65 inches (271 mm)
+(F1: 57.14%  |  EM: No)
+
+Q177. How many square miles does San Diego cover?
+Predicted answer: 372 1
+Golder answer: 372.1
+(F1: 100.00%  |  EM: Yes)
+
+Q178. What museum has a branch at the Santa Fe Depot?
+Predicted answer: Museum of contemporary art san diego
+Golder answer: Museum of Contemporary Art San Diego (MCASD)
+(F1: 92.31%  |  EM: No)
+
+Q179. In what year was Kitab al-Miraj likely translated into Latin?
+Predicted answer: 1264
+Golder answer: in 1264 or shortly before
+(F1: 33.33%  |  EM: No)
+
+Q180. In Iran, who has the final say in all matters directly related to the Supreme Leader?
+Predicted answer: Supreme leader
+Golder answer: the Supreme Leader
+(F1: 100.00%  |  EM: Yes)
+
+Q181. What is one of the three Crown Dependencies of the British Isles?
+Predicted answer: Isle of man
+Golder answer: Isle of Man
+(F1: 100.00%  |  EM: Yes)
+
+Q182. Where do Liberians of European decent live?
+Predicted answer: In country
+Golder answer: in the country
+(F1: 100.00%  |  EM: Yes)
+
+Q183. When did the Chinese government ban the purchase of Windows 8 products?
+Predicted answer: May 2014
+Golder answer: May 2014
+(F1: 100.00%  |  EM: Yes)
+
+Q184. Why is the translation of the Old Testament into Greek known as the Septuagint?
+Predicted answer: Seventy translators
+Golder answer: seventy translators
+(F1: 100.00%  |  EM: Yes)
+
+Q185. What event on Tuvalu made assistance to the population necessary?
+Predicted answer: Cyclone pam
+Golder answer: Cyclone Pam
+(F1: 100.00%  |  EM: Yes)
+
+Q186. How much of Namibia's land is arable?
+Predicted answer: 1
+Golder answer: 1%
+(F1: 100.00%  |  EM: Yes)
+
+Q187. Which birds are popular as pets?
+Predicted answer: Songbirds parrots and other species
+Golder answer: Songbirds, parrots
+(F1: 57.14%  |  EM: No)
+
+Q188. How many viceroys were there in China Proper?
+Predicted answer: Eight
+Golder answer: eight
+(F1: 100.00%  |  EM: Yes)
+
+Q189. Name two arts of the Four Arts?
+Predicted answer: Orthodox four wangs
+Golder answer: Calligraphy and painting
+(F1: 0.00%  |  EM: No)
+
+Q190. What two cultures unified to for an elaborate civilization?
+Predicted answer: Caras and quitus
+Golder answer: the Caras and the Quitus
+(F1: 100.00%  |  EM: Yes)
+
+Q191. What DNA analysis indicated the common ancestry of the Native Americans?
+Predicted answer: Y chromosome
+Golder answer: mitochondrial DNA and Y-Chromosome
+(F1: 57.14%  |  EM: No)
+
+Q192. Scotland is said to frequently refer to university as what?
+Predicted answer: Phase in one s life when i was at university in united states and ireland college is often used instead when i was in college in australia canada new zealand united kingdom nigeria netherlands spain and german speaking countries university is often contracted to uni in ghana new zealand and in south africa it is sometimes called varsity although this has become uncommon in new zealand in recent years varsity was also common usage in uk in 19th century citation needed varsity
+Golder answer: Varsity
+(F1: 2.41%  |  EM: No)
+
+Q193. How did Jan Hus die?
+Predicted answer: Burned at stake
+Golder answer: burned at the stake
+(F1: 100.00%  |  EM: Yes)
+
+Q194. What nationality was de Beauvoir?
+Predicted answer: French
+Golder answer: French
+(F1: 100.00%  |  EM: Yes)
+
+Q195. Who was the JK Bridge named for?
+Predicted answer: Juscelino kubitschek de oliveira
+Golder answer: Juscelino Kubitschek de Oliveira
+(F1: 100.00%  |  EM: Yes)
+
+Q196. Why did Eisenhower ignore McCarthy?
+Predicted answer: To facilitate relations with congress
+Golder answer: facilitate relations with Congress
+(F1: 88.89%  |  EM: No)
+
+Q197. When did the Bronx's economy regrow?
+Predicted answer: Late 1980s
+Golder answer: starting in the late 1980s
+(F1: 66.67%  |  EM: No)
+
+Q198. What kind of legislature is the Provincial Assembly?
+Predicted answer: Unicameral
+Golder answer: unicameral
+(F1: 100.00%  |  EM: Yes)
+
+Q199. How are the skins of sea mammals useful for people in the Arctic trap?
+Predicted answer: To make kayaks clothing and footwear
+Golder answer: make kayaks, clothing, and footwear
+(F1: 90.91%  |  EM: No)
+
+Q200. What animal numbers have increased in Botswana?
+Predicted answer: Antelope
+Golder answer: hippopotamus
+(F1: 0.00%  |  EM: No)

@@ -1,0 +1,1003 @@
+
+Mean F1: 69.24%  |  Mean EM: 53.00%
+
+
+Q1. If Roman numerals were used, what would Super Bowl 50 have been called?
+Predicted answer: Super bowl l
+Golder answer: Super Bowl L
+(F1: 100.00%  |  EM: Yes)
+
+Q2. In what year did Roger Goodell call Super Bowl 50 'an important game for us as a league'?
+Predicted answer: 2012
+Golder answer: 2012
+(F1: 100.00%  |  EM: Yes)
+
+Q3. In early 2012, Goodell said that Super Bowl 50 would be what?
+Predicted answer: Spectacular
+Golder answer: spectacular
+(F1: 100.00%  |  EM: Yes)
+
+Q4. How many interceptions did Cam Newton throw?
+Predicted answer: 10
+Golder answer: 10
+(F1: 100.00%  |  EM: Yes)
+
+Q5. How many interceptions did manning have in 2015?
+Predicted answer: 17
+Golder answer: 17
+(F1: 100.00%  |  EM: Yes)
+
+Q6. Where was the NFL Experience held for the 2015 season?
+Predicted answer: Moscone center
+Golder answer: Moscone Center
+(F1: 100.00%  |  EM: Yes)
+
+Q7. What network aired Super Bowl 50?
+Predicted answer: Cbs
+Golder answer: CBS
+(F1: 100.00%  |  EM: Yes)
+
+Q8. What company had a contest to win a free Super Bowl commercial?
+Predicted answer: Quickbooks
+Golder answer: QuickBooks.
+(F1: 100.00%  |  EM: Yes)
+
+Q9. Universal Paid for The Secret Life of Pets and which other film trailer?
+Predicted answer: Alice through looking glass
+Golder answer: Jason Bourne
+(F1: 0.00%  |  EM: No)
+
+Q10. Who handled the play-by-play for the Denver radio stations?
+Predicted answer: Dave logan
+Golder answer: Dave Logan
+(F1: 100.00%  |  EM: Yes)
+
+Q11. What team had the lowest downs and yards ever in the Super Bowl as of Super Bowl 50?
+Predicted answer: Baltimore ravens
+Golder answer: The Broncos
+(F1: 0.00%  |  EM: No)
+
+Q12. What is the polish word for wreaths?
+Predicted answer: Wianki
+Golder answer: Wianki
+(F1: 100.00%  |  EM: Yes)
+
+Q13. When did the Warsaw Uprising begin?
+Predicted answer: 1 august 1944
+Golder answer: August 1944
+(F1: 80.00%  |  EM: No)
+
+Q14. What did John Paul II's visits in 1979 and 1983 encourage?
+Predicted answer: 
+Golder answer: growing anti-communist fervor
+(F1: 0.00%  |  EM: No)
+
+Q15. How long had John Paul II been the pope in 1979?
+Predicted answer: Less than year
+Golder answer: less than a year
+(F1: 100.00%  |  EM: Yes)
+
+Q16. Who bought the factory in 2005?
+Predicted answer: Avtozaz
+Golder answer: AvtoZAZ
+(F1: 100.00%  |  EM: Yes)
+
+Q17. What rank for most populous city in the European Union does Warsaw hold?
+Predicted answer: 9th
+Golder answer: 9th
+(F1: 100.00%  |  EM: Yes)
+
+Q18. What river originally bounded the Duchy
+Predicted answer: River seine
+Golder answer: Seine
+(F1: 66.67%  |  EM: No)
+
+Q19. When did Dyrrachium  fall to the Normans?
+Predicted answer: 1081
+Golder answer: 1082
+(F1: 0.00%  |  EM: No)
+
+Q20. What ruined Richard's plans to reach Acre?
+Predicted answer: Storm
+Golder answer: a storm
+(F1: 100.00%  |  EM: Yes)
+
+Q21. Who did Berengaria of Navarre marry?
+Predicted answer: Richard lion heart married berengaria of navarre first born daughter of king sancho vi
+Golder answer: Richard the Lion-Heart
+(F1: 35.29%  |  EM: No)
+
+Q22. What is Tesla's home country?
+Predicted answer: Serbian american
+Golder answer: Serbian
+(F1: 66.67%  |  EM: No)
+
+Q23. What language were classes held in at Tesla's school?
+Predicted answer: German
+Golder answer: German
+(F1: 100.00%  |  EM: Yes)
+
+Q24. When did Tesla go to Tomingaj?
+Predicted answer: 1874
+Golder answer: 1874
+(F1: 100.00%  |  EM: Yes)
+
+Q25. What did Tesla do in Tomingaj?
+Predicted answer: Read many books
+Golder answer: he explored the mountains in hunter's garb
+(F1: 0.00%  |  EM: No)
+
+Q26. What did Tesla do in December 1878?
+Predicted answer: Left graz
+Golder answer: left Graz
+(F1: 100.00%  |  EM: Yes)
+
+Q27. Which university did Tesla audit in 1880?
+Predicted answer: Charles ferdinand university
+Golder answer: Charles-Ferdinand University
+(F1: 100.00%  |  EM: Yes)
+
+Q28. What was Tesla's monthly consultant salary?
+Predicted answer: 2 000 52 700 in today s dollars per month
+Golder answer: $2,000
+(F1: 33.33%  |  EM: No)
+
+Q29. Who did Tesla try to get money from?
+Predicted answer: Morgan
+Golder answer: Morgan
+(F1: 100.00%  |  EM: Yes)
+
+Q30. Who did Reuters claim won the 1915 Nobel prize in Physics?
+Predicted answer: Thomas edison and nikola tesla
+Golder answer: Thomas Edison and Nikola Tesla
+(F1: 100.00%  |  EM: Yes)
+
+Q31. Who was Tesla's nephew?
+Predicted answer: Sava kosanovic
+Golder answer: Sava Kosanović
+(F1: 50.00%  |  EM: No)
+
+Q32. What did he make the employee do when he didn't like her outfit?
+Predicted answer: Fired secretary because of her weight 110 he was quick to criticize clothing on several occasions tesla directed subordinate to go home
+Golder answer: go home and change
+(F1: 15.38%  |  EM: No)
+
+Q33. Whose theory did Tesla disagree with?
+Predicted answer: 
+Golder answer: Einstein's
+(F1: 0.00%  |  EM: No)
+
+Q34. What type of religious behavior was Tesla against?
+Predicted answer: Fanaticism
+Golder answer: fanaticism
+(F1: 100.00%  |  EM: Yes)
+
+Q35. What field of computer science is primarily concerned with determining the likelihood of whether or not a problem can ultimately be solved using algorithms?
+Predicted answer: Computability theory
+Golder answer: computability theory
+(F1: 100.00%  |  EM: Yes)
+
+Q36. What answer denotes that an algorithm has accepted an input string?
+Predicted answer: Yes
+Golder answer: yes
+(F1: 100.00%  |  EM: Yes)
+
+Q37. What is a commonly used measurement used to determine the complexity of a computational problem?
+Predicted answer: Size of input in bits
+Golder answer: how much time the best algorithm requires to solve the problem
+(F1: 0.00%  |  EM: No)
+
+Q38. Decision tree is an example of what type of measure?
+Predicted answer: Complexity measures
+Golder answer: Complexity measures
+(F1: 100.00%  |  EM: Yes)
+
+Q39. According to reduction, if X and Y can be solved by the same algorithm then X performs what function in relationship to Y?
+Predicted answer: 
+Golder answer: reduces
+(F1: 0.00%  |  EM: No)
+
+Q40. According to polynomial time reduction squaring can ultimately be logically reduced to what?
+Predicted answer: Multiplication
+Golder answer: multiplication
+(F1: 100.00%  |  EM: Yes)
+
+Q41. Where do most teachers get their credentials from?
+Predicted answer: University or college
+Golder answer: university or college.
+(F1: 100.00%  |  EM: Yes)
+
+Q42. What function is a teacher's role similar to?
+Predicted answer: Coach using whole gamut of psychology
+Golder answer: a coach
+(F1: 28.57%  |  EM: No)
+
+Q43. How common of a type was corporal punishment in schools?
+Predicted answer: Most
+Golder answer: the most common
+(F1: 66.67%  |  EM: No)
+
+Q44. What is something that teacher's are at a high risk for?
+Predicted answer: Occupational burnout
+Golder answer: occupational burnout
+(F1: 100.00%  |  EM: Yes)
+
+Q45. What type of degree must a teacher have, at a minimum?
+Predicted answer: Bachelor s
+Golder answer: a bachelor's degree
+(F1: 80.00%  |  EM: No)
+
+Q46. What did the Church claim could be avoided with money?
+Predicted answer: Freedom from god s punishment for sin
+Golder answer: God's punishment
+(F1: 60.00%  |  EM: No)
+
+Q47. What were these indulgences supposed to grant the giver?
+Predicted answer: 
+Golder answer: salvation
+(F1: 0.00%  |  EM: No)
+
+Q48. What did this statement of Tetzel's show about him?
+Predicted answer: Reflection of his capacity to exaggerate
+Golder answer: capacity to exaggerate
+(F1: 66.67%  |  EM: No)
+
+Q49. What story of little truth is a pillar of history?
+Predicted answer: Posting on door
+Golder answer: posting on the door
+(F1: 100.00%  |  EM: Yes)
+
+Q50. Which Pope sought to undermine Luther's theories?
+Predicted answer: Pope leo x
+Golder answer: Pope Leo X
+(F1: 100.00%  |  EM: Yes)
+
+Q51. What scripture did Luther use to back up his opinion that churchmen were not infallible?
+Predicted answer: Matthew 16 18
+Golder answer: Matthew 16:18
+(F1: 100.00%  |  EM: Yes)
+
+Q52. Who did Luther remind the peasants to obey?
+Predicted answer: Temporal authorities
+Golder answer: temporal authorities
+(F1: 100.00%  |  EM: Yes)
+
+Q53. What did Luther use as accompaniment to his hymns?
+Predicted answer: Lute
+Golder answer: lute
+(F1: 100.00%  |  EM: Yes)
+
+Q54. What caused Luther to write hymns?
+Predicted answer: 
+Golder answer: events in his life
+(F1: 0.00%  |  EM: No)
+
+Q55. Who was Philip I?
+Predicted answer: Landgrave of hesse
+Golder answer: Landgrave of Hesse
+(F1: 100.00%  |  EM: Yes)
+
+Q56. What did Luther try to do for the Jews?
+Predicted answer: Convert them to christianity
+Golder answer: convert them to Christianity.
+(F1: 100.00%  |  EM: Yes)
+
+Q57. How near to his death was the work published?
+Predicted answer: Three years
+Golder answer: three years before
+(F1: 80.00%  |  EM: No)
+
+Q58. What did Luther contend the Jews to be?
+Predicted answer: Chosen people but devil s people
+Golder answer: the devil's people
+(F1: 66.67%  |  EM: No)
+
+Q59. Orange, San Diego, Riverside and San Bernardino make up four of the five counties. What is the name of the last county?
+Predicted answer: Los angeles
+Golder answer: Los Angeles
+(F1: 100.00%  |  EM: Yes)
+
+Q60. What is the metric they use to determine how busy airports are?
+Predicted answer: Passenger volume
+Golder answer: passenger volume
+(F1: 100.00%  |  EM: Yes)
+
+Q61. What did BSkyB name their interactive service?
+Predicted answer: Open now called sky active
+Golder answer: Sky Active
+(F1: 57.14%  |  EM: No)
+
+Q62. What government set standards do all schools have to meet?
+Predicted answer: Government set curriculum standards
+Golder answer: curriculum
+(F1: 40.00%  |  EM: No)
+
+Q63. The passage of what act gave Victoria its own government?
+Predicted answer: Colony of victoria act 1855
+Golder answer: Colony of Victoria Act
+(F1: 88.89%  |  EM: No)
+
+Q64. Who can be in the Victorian cabinet?
+Predicted answer: Representatives elected to either house of parliament
+Golder answer: representatives
+(F1: 25.00%  |  EM: No)
+
+Q65. French troops put down the Camisard uprisings between what years?
+Predicted answer: 1702 and 1709
+Golder answer: 1702 and 1709
+(F1: 100.00%  |  EM: Yes)
+
+Q66. In what English colony were Huguenot settlers promised land?
+Predicted answer: Virginia
+Golder answer: Virginia
+(F1: 100.00%  |  EM: Yes)
+
+Q67. What early Huguenot Church was established in England?
+Predicted answer: French protestant church of london
+Golder answer: The French Protestant Church of London
+(F1: 100.00%  |  EM: Yes)
+
+Q68. What ideal thermodynamic cycle analyzes the process by which steam engines work?
+Predicted answer: Rankine cycle
+Golder answer: Rankine
+(F1: 66.67%  |  EM: No)
+
+Q69. What was the centrifugal governor incapable of doing?
+Predicted answer: Use on steam engine
+Golder answer: hold a set speed
+(F1: 0.00%  |  EM: No)
+
+Q70. In addition to Watt, Boulton and Smeaton, whose engine was an atmosphere design?
+Predicted answer: Newcomen s
+Golder answer: Newcomen's
+(F1: 100.00%  |  EM: Yes)
+
+Q71. What is the bond order of dioxygen molecules?
+Predicted answer: Two
+Golder answer: two
+(F1: 100.00%  |  EM: Yes)
+
+Q72. At what point does oxygen toxicity begin to happen?
+Predicted answer: Partial pressures
+Golder answer: 50 kilopascals
+(F1: 0.00%  |  EM: No)
+
+Q73. What medical appliance can be a concern for oxygen toxicity?
+Predicted answer: Mechanical ventilators since gas supplied through oxygen masks
+Golder answer: mechanical ventilators
+(F1: 40.00%  |  EM: No)
+
+Q74. Who would the occupation alienate?
+Predicted answer: West developed alternative energy sources and would result in ‘ total alienation ’ of arabs
+Golder answer: Arabs and much of the rest of the Third World
+(F1: 26.09%  |  EM: No)
+
+Q75. Which country is the most dependent on Arab oil?
+Predicted answer: Japan
+Golder answer: Japan
+(F1: 100.00%  |  EM: Yes)
+
+Q76. Which countries became dependent on US's security assurance to threats?
+Predicted answer: Saudi arabia and iran
+Golder answer: Saudi Arabia and Iran
+(F1: 100.00%  |  EM: Yes)
+
+Q77. What university donated the land for the Manned Spacecraft Center?
+Predicted answer: Rice university
+Golder answer: Rice University
+(F1: 100.00%  |  EM: Yes)
+
+Q78. What did Mueller have experience with prior to joining the space program?
+Predicted answer: Air force missile projects
+Golder answer: Air Force missile projects
+(F1: 100.00%  |  EM: Yes)
+
+Q79. Who was rewarded with building the CSM?
+Predicted answer: North american aviation
+Golder answer: North American Aviation
+(F1: 100.00%  |  EM: Yes)
+
+Q80. How many Saturn V rockets were produced by NASA during the Apollo project?
+Predicted answer: 15
+Golder answer: 15
+(F1: 100.00%  |  EM: Yes)
+
+Q81. What caused the need for principal Treaties that ended up forming the EU?
+Predicted answer: Common rules for coal and steel
+Golder answer: common rules for coal and steel, and then atomic energy
+(F1: 75.00%  |  EM: No)
+
+Q82. When did Greenland sign a Treaty granting them special status?
+Predicted answer: 
+Golder answer: 1985
+(F1: 0.00%  |  EM: No)
+
+Q83. When did the Court of Justice rule that the Commission could only propose that there must be some criminal sanctions?
+Predicted answer: October 2007
+Golder answer: October 2007
+(F1: 100.00%  |  EM: Yes)
+
+Q84. How many nations are within the Amazon Basin?
+Predicted answer: Nine
+Golder answer: nine nations
+(F1: 66.67%  |  EM: No)
+
+Q85. How many tons of Saharan dust falls on the Amazon Basin each year?
+Predicted answer: 27 7 million tons
+Golder answer: 27.7 million tons
+(F1: 100.00%  |  EM: Yes)
+
+Q86. What organization predicted that the Amazon forest could survive only three years of drought?
+Predicted answer: Woods hole research center
+Golder answer: Woods Hole Research Center
+(F1: 100.00%  |  EM: Yes)
+
+Q87. How many species of Ctenophores have been validated?
+Predicted answer: 100 – 150
+Golder answer: 100–150
+(F1: 0.00%  |  EM: No)
+
+Q88. Cypiddids are not what?
+Predicted answer: Monophyletic
+Golder answer: monophyletic
+(F1: 100.00%  |  EM: Yes)
+
+Q89. Why are coastal species tough?
+Predicted answer: Waves and swirling sediment particles
+Golder answer: to withstand waves and swirling sediment particles
+(F1: 83.33%  |  EM: No)
+
+Q90. What was the period called that was 505 million years ago?
+Predicted answer: Mid cambrian period
+Golder answer: Cambrian period.
+(F1: 80.00%  |  EM: No)
+
+Q91. What do some researchers believe is the earliest-diverging animal phylum is?
+Predicted answer: Multicellularity it has been focus of debate for many years ctenophores have been purported to be sister lineage to bilateria sister to cnidaria sister to cnidaria placozoa and bilateria and sister to all other animal phyla series of studies that looked at presence and absence of members of gene families and signalling pathways e g homeoboxes nuclear receptors wnt signaling pathway and sodium channels showed evidence congruent with latter two scenarios that ctenophores are either sister to cnidaria placozoa and bilateria or sister to all other animal phyla several more recent studies comparing complete sequenced genomes of ctenophores with other sequenced animal genomes have also supported ctenophores
+Golder answer: Porifera
+(F1: 0.00%  |  EM: No)
+
+Q92. What does the name Fresno mean in Spanish?
+Predicted answer: Ash tree
+Golder answer: ash tree
+(F1: 100.00%  |  EM: Yes)
+
+Q93. In 1940, what percentage of the population in Fresno was Asian?
+Predicted answer: 2 7
+Golder answer: 2.7%
+(F1: 100.00%  |  EM: Yes)
+
+Q94. Which one of Fresno's hotels burned down?
+Predicted answer: Hughes hotel
+Golder answer: Hughes Hotel
+(F1: 100.00%  |  EM: Yes)
+
+Q95. What was the Plos Pathogens paper about?
+Predicted answer: Y pestis was causative agent of epidemic plague that devastated europe
+Golder answer: a new investigation into the role of Yersinia pestis in the Black Death
+(F1: 19.05%  |  EM: No)
+
+Q96. What are the three major types of rock? 
+Predicted answer: Igneous sedimentary and metamorphic rock cycle is important concept in geology which illustrates relationships between these three types of rock and magma
+Golder answer: igneous, sedimentary, and metamorphic
+(F1: 30.77%  |  EM: No)
+
+Q97. Whose theory was the theory of continental drift?
+Predicted answer: Alfred wegener
+Golder answer: Alfred Wegener
+(F1: 100.00%  |  EM: Yes)
+
+Q98. Zones in which mountains are built along convergent tectonic plate boundaries are called what?
+Predicted answer: Orogenic wedges
+Golder answer: orogenic wedges
+(F1: 100.00%  |  EM: Yes)
+
+Q99. What proportion did detached homes rise in 2010?
+Predicted answer: 7 8
+Golder answer: 7.8%
+(F1: 100.00%  |  EM: Yes)
+
+Q100. What is "The Gate"?
+Predicted answer: New indoor complex
+Golder answer: indoor complex
+(F1: 80.00%  |  EM: No)
+
+Q101. How often is the AV Festival held?
+Predicted answer: Biennial
+Golder answer: biennial
+(F1: 100.00%  |  EM: Yes)
+
+Q102. What is an annual two-day multicultural event held in Newcastle in late August?
+Predicted answer: Newcastle mela
+Golder answer: Newcastle Mela
+(F1: 100.00%  |  EM: Yes)
+
+Q103. What famous 5.9-mile athletic event takes place annually in Newcastle in June?
+Predicted answer: Blaydon race
+Golder answer: Blaydon Race
+(F1: 100.00%  |  EM: Yes)
+
+Q104. In which year were the North and South Courts opened?
+Predicted answer: 1862
+Golder answer: Secretariat Wing
+(F1: 0.00%  |  EM: No)
+
+Q105. What was the digitization project called?
+Predicted answer: Factory project
+Golder answer: Factory Project
+(F1: 100.00%  |  EM: Yes)
+
+Q106. What are the largest objects in the V&A ceramics and glass collection?
+Predicted answer: Series of elaborately ornamented ceramic stoves
+Golder answer: ceramic stoves
+(F1: 50.00%  |  EM: No)
+
+Q107. When did a Charlie Brown Christmas debut?
+Predicted answer: 1965
+Golder answer: 1965
+(F1: 100.00%  |  EM: Yes)
+
+Q108. What was Goldenson's 1991 book about ABC titled?
+Predicted answer: Beating odds untold story behind rise of abc in middle of war where battlefield was wall street
+Golder answer: Beating the Odds: The Untold Story Behind the Rise of ABC
+(F1: 64.00%  |  EM: No)
+
+Q109. What did the Public Health Cigarette Smoking Act ban?
+Predicted answer: Cigarette advertising
+Golder answer: cigarette advertising from all television and radio networks
+(F1: 40.00%  |  EM: No)
+
+Q110. Which female anchor from Today joined Hugh Downs on 20/20?
+Predicted answer: Barbara walters
+Golder answer: Barbara Walters
+(F1: 100.00%  |  EM: Yes)
+
+Q111. In 2013-14, NBC finished in first place in the 18-49 demographic for the first time since when?
+Predicted answer: 2004
+Golder answer: 2004
+(F1: 100.00%  |  EM: Yes)
+
+Q112. In 2009, Disney reached an agreement to buy what percentage stake in Hulu?
+Predicted answer: 27
+Golder answer: 27% ownership stake
+(F1: 50.00%  |  EM: No)
+
+Q113. The All-Channel Receiver Act mandated the support of what kind of tuning?
+Predicted answer: Uhf
+Golder answer: UHF tuning
+(F1: 66.67%  |  EM: No)
+
+Q114. What comedy block debuted in 1989 for ABC?
+Predicted answer: Tgif
+Golder answer: the "TGIF" block
+(F1: 66.67%  |  EM: No)
+
+Q115. How many affiliates does Sinclair Broadcast Group service or own?
+Predicted answer: 28
+Golder answer: 28 ABC affiliates and two additional subchannel-only affiliates
+(F1: 20.00%  |  EM: No)
+
+Q116. Who was the head of the household that Temüjin joined when he was nine years old?
+Predicted answer: 
+Golder answer: Dai Setsen
+(F1: 0.00%  |  EM: No)
+
+Q117. What year did Börte's give birth to Jochi?
+Predicted answer: 1185 – 1226
+Golder answer: 1185
+(F1: 50.00%  |  EM: No)
+
+Q118. What trading route joined Khwarezmia and the Mongol Empire?
+Predicted answer: Silk road
+Golder answer: the Silk Road
+(F1: 100.00%  |  EM: Yes)
+
+Q119. What two other rulers had their graves hidden under a river?
+Predicted answer: King gilgamesh of uruk and atilla hun
+Golder answer: Sumerian King Gilgamesh of Uruk and Atilla the Hun
+(F1: 93.33%  |  EM: No)
+
+Q120. What spelling of Genghis most closely matches its probable pronunciation?
+Predicted answer: Chinggis
+Golder answer: Chinggis
+(F1: 100.00%  |  EM: Yes)
+
+Q121. In which two codes were the roles of pharmacists codified?
+Predicted answer: Taiho code
+Golder answer: the Taihō Code (701) and re-stated in the Yōrō Code (718)
+(F1: 16.67%  |  EM: No)
+
+Q122. What term is shorthand for antibody generators?
+Predicted answer: Antigens
+Golder answer: antigens
+(F1: 100.00%  |  EM: Yes)
+
+Q123. What antibody is transported from the mother to baby across the placenta?
+Predicted answer: Igg
+Golder answer: IgG
+(F1: 100.00%  |  EM: Yes)
+
+Q124. In a type III secretion system, proteins are transported to the host cell in order to do what?
+Predicted answer: Shut down host defenses
+Golder answer: shut down host defenses
+(F1: 100.00%  |  EM: Yes)
+
+Q125. Cytokine TBF-B suppresses the activity of what cell types?
+Predicted answer: Macrophages and lymphocytes
+Golder answer: macrophages and lymphocytes
+(F1: 100.00%  |  EM: Yes)
+
+Q126. Antibody-dependent hypersensitivity belongs to what class of hypersensitivity?
+Predicted answer: Cytotoxic
+Golder answer: Type II hypersensitivity
+(F1: 0.00%  |  EM: No)
+
+Q127. After the Peterloo massacre what poet wrote The Massacre of Anarchy?
+Predicted answer: Percy shelley
+Golder answer: Percy Shelley
+(F1: 100.00%  |  EM: Yes)
+
+Q128. Gandhi often referenced Shelley's poem in his efforts to do what? 
+Predicted answer: Vast audiences during campaign for free india
+Golder answer: free India
+(F1: 44.44%  |  EM: No)
+
+Q129. What type of protest falls under civil disobedience without aggression?
+Predicted answer: Lawful
+Golder answer: nonviolent civil disobedience
+(F1: 0.00%  |  EM: No)
+
+Q130. What is the process of constructing a building or infrastructure?
+Predicted answer: Construction
+Golder answer: Construction
+(F1: 100.00%  |  EM: Yes)
+
+Q131. Building construction is usually further divided into what categories?
+Predicted answer: Residential and non residential commercial institutional
+Golder answer: residential and non-residential
+(F1: 60.00%  |  EM: No)
+
+Q132. What is the average construction salary in the Middle East?
+Predicted answer: £42 090
+Golder answer: £42,090
+(F1: 100.00%  |  EM: Yes)
+
+Q133. What was the percentage of Germans attending private high schools in 2008?
+Predicted answer: 11 1
+Golder answer: 11.1
+(F1: 100.00%  |  EM: Yes)
+
+Q134. What types of schools are most ergänzungsschulen?
+Predicted answer: Vocational schools
+Golder answer: vocational
+(F1: 66.67%  |  EM: No)
+
+Q135. Along with private individuals and organizations, what groups sometimes runs ergänzungsschulen?
+Predicted answer: Religious groups
+Golder answer: religious
+(F1: 66.67%  |  EM: No)
+
+Q136. What is the name of the area that the main campus is centered in Cambridge?
+Predicted answer: Harvard yard
+Golder answer: Harvard Yard
+(F1: 100.00%  |  EM: Yes)
+
+Q137. Was the school officially associated with any denomination?
+Predicted answer: Never
+Golder answer: It was never affiliated with any particular denomination
+(F1: 22.22%  |  EM: No)
+
+Q138. Along what geographic feature are nine residential houses located?
+Predicted answer: Charles river
+Golder answer: Charles River
+(F1: 100.00%  |  EM: Yes)
+
+Q139. How great were the losses suffered in the the financial crisis of 2008-09 to Harvard endowment?
+Predicted answer: 30
+Golder answer: 30% loss
+(F1: 66.67%  |  EM: No)
+
+Q140. In what year was a set of significant rule changes introduced including the forward pass?
+Predicted answer: 1906
+Golder answer: 1906
+(F1: 100.00%  |  EM: Yes)
+
+Q141. What was Jacksonville referred to as after the consolidation?
+Predicted answer: Better jacksonville plan
+Golder answer: "Bold New City of the South"
+(F1: 0.00%  |  EM: No)
+
+Q142. What contributed to the decreased inequality between trained and untrained workers?
+Predicted answer: Wages
+Golder answer: period of compression
+(F1: 0.00%  |  EM: No)
+
+Q143. How much support does evidence provide for the view that labor-market flexibility improves labor-market outcomes?
+Predicted answer: Little
+Golder answer: little
+(F1: 100.00%  |  EM: Yes)
+
+Q144. Why does unemployment harm growth?
+Predicted answer: It is waste of resources
+Golder answer: because it is a waste of resources
+(F1: 90.91%  |  EM: No)
+
+Q145. How could human inequality be addressed without resulting in an increase of environmental damage?
+Predicted answer: Multiplier
+Golder answer: If (as WWF argued), population levels would start to drop to a sustainable level
+(F1: 0.00%  |  EM: No)
+
+Q146. When did the BBC rebroadcast the first episode of Doctor Who?
+Predicted answer: 30 november 1963
+Golder answer: 30 November 1963
+(F1: 100.00%  |  EM: Yes)
+
+Q147. In what two serials was the number of regenerations set?
+Predicted answer: Twelfth doctor
+Golder answer: The Deadly Assassin and Mawdryn Undead
+(F1: 0.00%  |  EM: No)
+
+Q148. What actor played the Valeyard?
+Predicted answer: Michael jayston
+Golder answer: Michael Jayston
+(F1: 100.00%  |  EM: Yes)
+
+Q149. When was the third period of high viewership for the Doctor Who series?
+Predicted answer: 2005
+Golder answer: After the series' revival in 2005
+(F1: 33.33%  |  EM: No)
+
+Q150. When did the Eleventh Doctor appear in the Sarah Jane series?
+Predicted answer: 2010
+Golder answer: 2010
+(F1: 100.00%  |  EM: Yes)
+
+Q151. What buildings held the Milton Friedman Institute?
+Predicted answer: Chicago theological seminary
+Golder answer: the Chicago Theological Seminary
+(F1: 100.00%  |  EM: Yes)
+
+Q152. Who was the founder of the Oracle Corporation?
+Predicted answer: Satya nadella
+Golder answer: Larry Ellison
+(F1: 0.00%  |  EM: No)
+
+Q153. Who did Duke Yansheng Kong Duanyou flee with?
+Predicted answer: Song emperor
+Golder answer: the Song Emperor
+(F1: 100.00%  |  EM: Yes)
+
+Q154. How did the Yuan come to have the 4 schools of medicine?
+Predicted answer: All four schools were based on same intellectual foundation
+Golder answer: inherited from the Jin dynasty
+(F1: 0.00%  |  EM: No)
+
+Q155. Which part of China had people ranked higher in the class system?
+Predicted answer: Northern chinese were ranked higher and southern chinese
+Golder answer: Northern
+(F1: 22.22%  |  EM: No)
+
+Q156. Where is Kenya located?
+Predicted answer: Africa
+Golder answer: in Africa
+(F1: 66.67%  |  EM: No)
+
+Q157. Where does Kenya rang on the CPI scale?
+Predicted answer: Low on transparency international s corruption perception index
+Golder answer: low
+(F1: 22.22%  |  EM: No)
+
+Q158. Has the tourism sector had growth or reduction?
+Predicted answer: Steady growth in most years since independence and by late 1980s had become country s principal source of foreign exchange tourists largest number being from germany and united kingdom are attracted mainly to coastal beaches and game reserves notably expansive east and west tsavo national park 20 808 square kilometres 8 034 sq mi in southeast tourism has seen substantial revival
+Golder answer: steady growth
+(F1: 6.35%  |  EM: No)
+
+Q159. What can cause fluctuations in the production of corn?
+Predicted answer: Food aid —
+Golder answer: weather-related fluctuations
+(F1: 0.00%  |  EM: No)
+
+Q160. When was the IPCC Trust Fund founded?
+Predicted answer: 1989
+Golder answer: 1989
+(F1: 100.00%  |  EM: Yes)
+
+Q161. How much of the greenhouse effect is due to carbon dioxide?
+Predicted answer: Over half
+Golder answer: over half
+(F1: 100.00%  |  EM: Yes)
+
+Q162. What direction did Watson say the mistake went in?
+Predicted answer: Direction
+Golder answer: making it seem like climate change is more serious by overstating the impact
+(F1: 0.00%  |  EM: No)
+
+Q163. How much did the IPCC Third Assessment Report say sea levels will rise from 1990 to 2100?
+Predicted answer: 0 5 – 1 4 m 50 – 140 cm
+Golder answer: 9–88 cm
+(F1: 16.67%  |  EM: No)
+
+Q164. What shape are granal thylakoids?
+Predicted answer: Pancake shaped circular disks
+Golder answer: pancake-shaped circular disks
+(F1: 100.00%  |  EM: Yes)
+
+Q165. What can rubisco do by mistake?
+Predicted answer: Add o2
+Golder answer: add O2 instead of CO2 to RuBP
+(F1: 44.44%  |  EM: No)
+
+Q166. What is more often seen in root tip maristems?
+Predicted answer: Formation of starch storing amyloplasts
+Golder answer: the formation of starch-storing amyloplasts
+(F1: 100.00%  |  EM: Yes)
+
+Q167. What is the name of the Egyptian papyrus that suggests that they may have had knowledge of prime numbers?
+Predicted answer: Rhind papyrus
+Golder answer: the Rhind papyrus
+(F1: 100.00%  |  EM: Yes)
+
+Q168. Of what form are Sophie Germain primes?
+Predicted answer: 2p 1 with p prime
+Golder answer: 2p + 1
+(F1: 57.14%  |  EM: No)
+
+Q169. What are the points of algebro-geometric objects?
+Predicted answer: Prime ideals
+Golder answer: Prime ideals
+(F1: 100.00%  |  EM: Yes)
+
+Q170. What happens to the norm when a number is multiplied by p?
+Predicted answer: Gets smaller
+Golder answer: norm gets smaller
+(F1: 80.00%  |  EM: No)
+
+Q171. Where does the Rhine river's measurement begin?
+Predicted answer: Old rhine bridge at constance
+Golder answer: Old Rhine Bridge at Constance
+(F1: 100.00%  |  EM: Yes)
+
+Q172. Why was the Rhine regulated? 
+Predicted answer: To counteract constant flooding and strong sedimentation in western rhine delta
+Golder answer: constant flooding
+(F1: 30.77%  |  EM: No)
+
+Q173. The Rhine gets how much water from the Aare?
+Predicted answer: 
+Golder answer: 1,000 m3/s (35,000 cu ft/s),
+(F1: 0.00%  |  EM: No)
+
+Q174. What is the first major bend in the Rhine called?
+Predicted answer: Rhine knee
+Golder answer: Rhine knee
+(F1: 100.00%  |  EM: Yes)
+
+Q175. What flows between the Bingen and Bonn?
+Predicted answer: Middle rhine
+Golder answer: Middle Rhine
+(F1: 100.00%  |  EM: Yes)
+
+Q176. What is considered the epitome of the Rhine romanticism? 
+Predicted answer: Middle rhine valley
+Golder answer: Middle Rhine Valley
+(F1: 100.00%  |  EM: Yes)
+
+Q177. The Rhine Gorge is between Koblenz and what other city?
+Predicted answer: Rudesheim am rhein
+Golder answer: Rüdesheim am Rhein
+(F1: 66.67%  |  EM: No)
+
+Q178. What city has the biggest port in Germany?
+Predicted answer: 
+Golder answer: Duisburg
+(F1: 0.00%  |  EM: No)
+
+Q179. When was the construction that changed the Rhine's Delta?
+Predicted answer: Second half of 20th century fundamentally
+Golder answer: 20th Century
+(F1: 50.00%  |  EM: No)
+
+Q180. When did rapid warming begin and help vegetation?
+Predicted answer: 13 000 bp
+Golder answer: 13,000 BP
+(F1: 100.00%  |  EM: Yes)
+
+Q181. Who represents the Scottish Parliament at home and abroad in an official capacity?
+Predicted answer: Presiding officer
+Golder answer: The Presiding Officer
+(F1: 100.00%  |  EM: Yes)
+
+Q182. Who gave her royal assent to the Scotland Act of 1998?
+Predicted answer: Queen elizabeth ii
+Golder answer: Queen Elizabeth II
+(F1: 100.00%  |  EM: Yes)
+
+Q183. MPs representing English constituencies can only veto laws affecting which country? 
+Predicted answer: England
+Golder answer: England
+(F1: 100.00%  |  EM: Yes)
+
+Q184. What do supporters of Islamism believe their views reflect?
+Predicted answer: Islam
+Golder answer: Islam
+(F1: 100.00%  |  EM: Yes)
+
+Q185. What long term agenda was the acts of plundering Muslim lands by the West?
+Predicted answer: Conspiracy
+Golder answer: conspiracy
+(F1: 100.00%  |  EM: Yes)
+
+Q186. What does the acronym FIS stand for?
+Predicted answer: Front islamique de salut
+Golder answer: Front Islamique de Salut
+(F1: 100.00%  |  EM: Yes)
+
+Q187. The term imperialism has been applied to western countries, and which eastern county?
+Predicted answer: Japanese
+Golder answer: Japan
+(F1: 0.00%  |  EM: No)
+
+Q188. When did the Ottoman Empire fall?
+Predicted answer: 
+Golder answer: 1923
+(F1: 0.00%  |  EM: No)
+
+Q189. In 1968, who led the team which systematized denominational doctrine?
+Predicted answer: Albert c outler
+Golder answer: Albert C. Outler
+(F1: 100.00%  |  EM: Yes)
+
+Q190. What does the UMC oppose as incompatible with the teaching of Scripture?
+Predicted answer: Conscription
+Golder answer: conscription
+(F1: 100.00%  |  EM: Yes)
+
+Q191. Who has the authority of a pastor only within the context and during the time of the appointment?
+Predicted answer: Pastor
+Golder answer: licensed local pastor
+(F1: 50.00%  |  EM: No)
+
+Q192. What is an interdenominational group composed of various churches to promote the Gospel throughout the world?
+Predicted answer: World methodist council
+Golder answer: World Methodist Council
+(F1: 100.00%  |  EM: Yes)
+
+Q193. What was the significance of British win?
+Predicted answer: One of most significant developments in century of anglo french conflict
+Golder answer: confirming Britain's position as the dominant colonial power in eastern North America
+(F1: 8.70%  |  EM: No)
+
+Q194. What was Frensh military presence at start of war?
+Predicted answer: No french regular army troops were stationed in north america and few british troops
+Golder answer: no French regular army troops were stationed in North America
+(F1: 83.33%  |  EM: No)
+
+Q195. What was the belief that maintaining motion required force?
+Predicted answer: Constant velocity
+Golder answer: fundamental error
+(F1: 0.00%  |  EM: No)
+
+Q196. What occurs when traveling across a surface at a constant velocity with regard to friction?
+Predicted answer: Dynamic equilibrium
+Golder answer: dynamic equilibrium
+(F1: 100.00%  |  EM: Yes)
+
+Q197. What has to accounted for that causes no net force being the cause of constant velocity motion?
+Predicted answer: Kinetic friction
+Golder answer: kinetic friction
+(F1: 100.00%  |  EM: Yes)
+
+Q198. How are the particle forces and accelerations explained as by gauge bosons exchange?
+Predicted answer: Mathematical
+Golder answer: mathematical by-product
+(F1: 50.00%  |  EM: No)
+
+Q199. What actually causes rigidity in matter?
+Predicted answer: Pauli exclusion principle
+Golder answer: the Pauli exclusion principle
+(F1: 100.00%  |  EM: Yes)
+
+Q200. What force changes an objects direction of travel?
+Predicted answer: Radial centripetal force
+Golder answer: centripetal
+(F1: 50.00%  |  EM: No)
